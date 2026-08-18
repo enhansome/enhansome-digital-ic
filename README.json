@@ -14,7 +14,7 @@
             "last_commit": "2026-01-05T18:43:02Z",
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8030
+            "stars": 8034
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2022-05-15T11:38:02Z",
             "owner": "LeiWang1999",
             "repo": "FPGA",
-            "stars": 5634
+            "stars": 5635
           }
         },
         {
@@ -194,7 +194,7 @@
             "last_commit": "2026-03-12T08:19:20Z",
             "owner": "pConst",
             "repo": "basic_verilog",
-            "stars": 2008
+            "stars": 2009
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2024-07-05T08:24:12Z",
             "owner": "corundum",
             "repo": "corundum",
-            "stars": 2424
+            "stars": 2425
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2025-02-27T23:50:16Z",
             "owner": "alexforencich",
             "repo": "verilog-axis",
-            "stars": 912
+            "stars": 911
           }
         },
         {
@@ -368,10 +368,10 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-17T02:50:49Z",
+            "last_commit": "2026-08-18T02:43:20Z",
             "owner": "OpenXiangShan",
             "repo": "XiangShan",
-            "stars": 7194
+            "stars": 7195
           }
         },
         {
@@ -382,10 +382,10 @@
           "repo_info": {
             "archived": false,
             "language": "TeX",
-            "last_commit": "2026-08-14T06:10:58Z",
+            "last_commit": "2026-08-18T01:30:36Z",
             "owner": "riscv",
             "repo": "riscv-isa-manual",
-            "stars": 4761
+            "stars": 4762
           }
         },
         {
@@ -399,7 +399,7 @@
             "last_commit": "2026-07-31T05:59:04Z",
             "owner": "YosysHQ",
             "repo": "picorv32",
-            "stars": 4335
+            "stars": 4339
           }
         },
         {
@@ -413,7 +413,7 @@
             "last_commit": "2026-02-11T09:06:28Z",
             "owner": "SpinalHDL",
             "repo": "VexRiscv",
-            "stars": 3224
+            "stars": 3227
           }
         },
         {
@@ -424,10 +424,10 @@
           "repo_info": {
             "archived": false,
             "language": "Assembly",
-            "last_commit": "2026-08-16T22:55:56Z",
+            "last_commit": "2026-08-17T23:05:34Z",
             "owner": "openhwgroup",
             "repo": "cva6",
-            "stars": 3067
+            "stars": 3068
           }
         },
         {
@@ -455,7 +455,7 @@
             "last_commit": "2021-12-31T09:23:38Z",
             "owner": "XUANTIE-RV",
             "repo": "wujian100_open",
-            "stars": 2007
+            "stars": 2009
           }
         },
         {
@@ -469,7 +469,7 @@
             "last_commit": "2025-08-06T02:51:06Z",
             "owner": "riscv-mcu",
             "repo": "e203_hbirdv2",
-            "stars": 1898
+            "stars": 1899
           }
         },
         {
@@ -483,7 +483,7 @@
             "last_commit": "2024-06-28T12:18:17Z",
             "owner": "XUANTIE-RV",
             "repo": "openc910",
-            "stars": 1463
+            "stars": 1464
           }
         },
         {
@@ -497,7 +497,7 @@
             "last_commit": "2024-11-26T08:28:19Z",
             "owner": "pulp-platform",
             "repo": "pulp",
-            "stars": 567
+            "stars": 566
           }
         },
         {
@@ -562,7 +562,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-17T00:47:05Z",
+            "last_commit": "2026-08-17T11:12:39Z",
             "owner": "chipsalliance",
             "repo": "chisel",
             "stars": 4760
@@ -633,7 +633,7 @@
             "last_commit": "2022-05-15T11:38:02Z",
             "owner": "LeiWang1999",
             "repo": "FPGA",
-            "stars": 5634
+            "stars": 5635
           }
         },
         {
@@ -678,10 +678,10 @@
           "repo_info": {
             "archived": false,
             "language": "Verilog",
-            "last_commit": "2026-08-17T01:19:22Z",
+            "last_commit": "2026-08-17T22:56:48Z",
             "owner": "The-OpenROAD-Project",
             "repo": "OpenROAD",
-            "stars": 2982
+            "stars": 2986
           }
         },
         {
@@ -722,7 +722,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:52:31.830Z",
+    "last_updated": "2026-08-18T02:48:17.710Z",
     "original_repository": "qninth/awesome-digital-ic",
     "original_repository_sha": "b7d48d3344183ba7527140f71ce2ba332e275ac3",
     "enhanced_repository": "enhansome/enhansome-digital-ic",
