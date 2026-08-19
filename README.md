@@ -13,8 +13,8 @@
 
 > Awesome-lists for digital ic.
 
-* [Awesome Electronics](https://github.com/kitspace/awesome-electronics) ⭐ 8,034 | 🐛 29 | 📅 2026-01-05 📍![stars](https://img.shields.io/github/stars/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
-* [FPGA Tutorial](https://github.com/LeiWang1999/FPGA) ⭐ 5,635 | 🐛 2 | 📅 2022-05-15 📍![stars](https://img.shields.io/github/stars/LeiWang1999/FPGA) - A curated list of amazingly FPGA tutorials and projects.
+* [Awesome Electronics](https://github.com/kitspace/awesome-electronics) ⭐ 8,034 | 🐛 30 | 📅 2026-01-05 📍![stars](https://img.shields.io/github/stars/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
+* [FPGA Tutorial](https://github.com/LeiWang1999/FPGA) ⭐ 5,632 | 🐛 2 | 📅 2022-05-15 📍![stars](https://img.shields.io/github/stars/LeiWang1999/FPGA) - A curated list of amazingly FPGA tutorials and projects.
 * [Awesome Hardware Description Languages](https://github.com/drom/awesome-hdl) ⭐ 1,166 | 🐛 2 | 📅 2026-07-09 📍![stars](https://img.shields.io/github/stars/drom/awesome-hdl) - A curated list of amazingly awesome hardware description language projects.
 * [Open Hardware Verification](https://github.com/ben-marshall/awesome-open-hardware-verification) ⭐ 618 | 🐛 3 | 📅 2026-01-03 📍![stars](https://img.shields.io/github/stars/ben-marshall/awesome-open-hardware-verification) - A curated List of Free and Open Source hardware verification tools and frameworks.
 * [Awesome FPGA](https://github.com/Vitorian/awesome-fpga) ⭐ 394 | 🐛 1 | 📅 2017-05-25 📍![stars](https://img.shields.io/github/stars/Vitorian/awesome-fpga) - A collection of resources on FPGA devices and development in general.
@@ -49,13 +49,13 @@
 
 * [ALEX FORENCICH - AXI](https://github.com/alexforencich/verilog-axi) ⭐ 2,116 | 🐛 68 | 🌐 Verilog | 📅 2025-02-27 📍![stars](https://img.shields.io/github/stars/alexforencich/verilog-axi) - Collection of AXI4 and AXI4 lite bus components. Most components are fully parametrizable in interface widths.
 
-* [PULP-platform - AXI](https://github.com/pulp-platform/axi) ⭐ 1,659 | 🐛 71 | 🌐 SystemVerilog | 📅 2026-08-05 📍![stars](https://img.shields.io/github/stars/pulp-platform/axi) - AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication.
+* [PULP-platform - AXI](https://github.com/pulp-platform/axi) ⭐ 1,659 | 🐛 73 | 🌐 SystemVerilog | 📅 2026-08-05 📍![stars](https://img.shields.io/github/stars/pulp-platform/axi) - AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication.
 
 * [ALEX FORENCICH - AXIS](https://github.com/alexforencich/verilog-axis) ⭐ 911 | 🐛 22 | 🌐 Python | 📅 2025-02-27 📍![stars](https://img.shields.io/github/stars/alexforencich/verilog-axis) - Collection of AXI Stream bus components. Most components are fully parametrizable in interface widths.
 
 * [RIFFA - PCIe](https://github.com/KastnerRG/riffa) ⭐ 880 | 🐛 41 | 🌐 Verilog | 📅 2024-06-11 📍![stars](https://img.shields.io/github/stars/KastnerRG/riffa) - Reusable Integration Framework for FPGA Acceleratorscommunication.
 
-* [ALEX FORENCICH - IIC](https://github.com/alexforencich/verilog-i2c) ⭐ 717 | 🐛 11 | 🌐 Verilog | 📅 2025-02-27 📍![stars](https://img.shields.io/github/stars/alexforencich/verilog-i2c) - I2C interface components. Includes full MyHDL testbench with intelligent bus cosimulation endpoints.
+* [ALEX FORENCICH - IIC](https://github.com/alexforencich/verilog-i2c) ⭐ 718 | 🐛 11 | 🌐 Verilog | 📅 2025-02-27 📍![stars](https://img.shields.io/github/stars/alexforencich/verilog-i2c) - I2C interface components. Includes full MyHDL testbench with intelligent bus cosimulation endpoints.
 
 * [ALEX FORENCICH - UART](http://github.com/alexforencich/verilog-uart/) ⭐ 575 | 🐛 10 | 🌐 Verilog | 📅 2025-02-27 📍![stars](https://img.shields.io/github/stars/alexforencich/verilog-uart) - A basic UART to AXI Stream IP core, written in Verilog with cocotb testbenches.
 
@@ -71,15 +71,15 @@
 
 #### RISC-V
 
-* [XiangShan](https://github.com/OpenXiangShan/XiangShan) ⭐ 7,195 | 🐛 267 | 🌐 Scala | 📅 2026-08-18 📍![stars](https://img.shields.io/github/stars/OpenXiangShan/XiangShan) - Open-source high-performance RISC-V processor.
+* [XiangShan](https://github.com/OpenXiangShan/XiangShan) ⭐ 7,200 | 🐛 268 | 🌐 Scala | 📅 2026-08-19 📍![stars](https://img.shields.io/github/stars/OpenXiangShan/XiangShan) - Open-source high-performance RISC-V processor.
 
-* [RISC-V Instruction Set Manual](https://github.com/riscv/riscv-isa-manual) ⭐ 4,762 | 🐛 178 | 🌐 TeX | 📅 2026-08-18 - This repository contains the LaTeX source for the draft RISC-V Instruction Set Manual.
+* [RISC-V Instruction Set Manual](https://github.com/riscv/riscv-isa-manual) ⭐ 4,764 | 🐛 176 | 🌐 TeX | 📅 2026-08-18 - This repository contains the LaTeX source for the draft RISC-V Instruction Set Manual.
 
-* [picorv32](https://github.com/YosysHQ/picorv32) ⭐ 4,339 | 🐛 87 | 🌐 Verilog | 📅 2026-07-31 📍![stars](https://img.shields.io/github/stars/YosysHQ/picorv32) - A Size-Optimized RISC-V CPU.
+* [picorv32](https://github.com/YosysHQ/picorv32) ⭐ 4,340 | 🐛 87 | 🌐 Verilog | 📅 2026-07-31 📍![stars](https://img.shields.io/github/stars/YosysHQ/picorv32) - A Size-Optimized RISC-V CPU.
 
-* [VexRiscv](https://github.com/SpinalHDL/VexRiscv) ⭐ 3,227 | 🐛 130 | 🌐 Assembly | 📅 2026-02-11 📍![stars](https://img.shields.io/github/stars/SpinalHDL/VexRiscv) - A FPGA friendly 32 bit RISC-V CPU implementation.
+* [VexRiscv](https://github.com/SpinalHDL/VexRiscv) ⭐ 3,231 | 🐛 130 | 🌐 Assembly | 📅 2026-02-11 📍![stars](https://img.shields.io/github/stars/SpinalHDL/VexRiscv) - A FPGA friendly 32 bit RISC-V CPU implementation.
 
-* [CVA6 RISC-V CPU](https://github.com/openhwgroup/cva6) ⭐ 3,068 | 🐛 264 | 🌐 Assembly | 📅 2026-08-17 📍![stars](https://img.shields.io/github/stars/openhwgroup/cva6) - An application class 6-stage RISC-V CPU capable of booting Linux.
+* [CVA6 RISC-V CPU](https://github.com/openhwgroup/cva6) ⭐ 3,068 | 🐛 268 | 🌐 Assembly | 📅 2026-08-19 📍![stars](https://img.shields.io/github/stars/openhwgroup/cva6) - An application class 6-stage RISC-V CPU capable of booting Linux.
 
 * [darkriscv](https://github.com/darklife/darkriscv) ⭐ 2,598 | 🐛 5 | 🌐 Verilog | 📅 2026-05-12 📍![stars](https://img.shields.io/github/stars/darklife/darkriscv) - A proof of concept for the opensource RISC-V instruction set.
 
@@ -87,7 +87,7 @@
 
 * [Hummingbirdv2 E203 Core and SoC](https://github.com/riscv-mcu/e203_hbirdv2) ⭐ 1,899 | 🐛 26 | 🌐 Verilog | 📅 2025-08-06 📍![stars](https://img.shields.io/github/stars/riscv-mcu/e203_hbirdv2) [Docs](https://doc.nucleisys.com/hbirdv2/) - A Ultra-Low Power RISC-V Core.
 
-* [openc910](https://github.com/T-head-Semi/openc910) ⭐ 1,464 | 🐛 52 | 🌐 Verilog | 📅 2024-06-28 📍![stars](https://img.shields.io/github/stars/T-head-Semi/openc910) - OpenXuantie C910 Core.
+* [openc910](https://github.com/T-head-Semi/openc910) ⭐ 1,464 | 🐛 53 | 🌐 Verilog | 📅 2024-06-28 📍![stars](https://img.shields.io/github/stars/T-head-Semi/openc910) - OpenXuantie C910 Core.
 
 * [PULP](https://github.com/pulp-platform/pulp) ⭐ 566 | 🐛 39 | 🌐 SystemVerilog | 📅 2024-11-26 - Open source Parallel Ultra-Low-Power RISC-V core.
 
@@ -98,7 +98,7 @@
 #### Others
 
 * [Nyuzi Processor](https://github.com/jbush001/NyuziProcessor) ⭐ 2,216 | 🐛 91 | 🌐 C | 📅 2024-11-08 📍![stars](https://img.shields.io/github/stars/jbush001/NyuziProcessor) - GPGPU microprocessor architecture.
-* [zipcpu](https://github.com/ZipCPU/zipcpu) ⭐ 1,574 | 🐛 3 | 🌐 Verilog | 📅 2025-12-08 ⭐📍![stars](https://img.shields.io/github/stars/ZipCPU/zipcpu) - with detailed comments.
+* [zipcpu](https://github.com/ZipCPU/zipcpu) ⭐ 1,573 | 🐛 3 | 🌐 Verilog | 📅 2025-12-08 ⭐📍![stars](https://img.shields.io/github/stars/ZipCPU/zipcpu) - with detailed comments.
 * [openmsp430](https://opencores.org/projects/openmsp430) - The openMSP430 is a synthesizable 16bit microcontroller core written in Verilog.
 
 ## Tutorials and Courses 💬[Intro](./Tutorials%20and%20Courses/README.md)
@@ -123,7 +123,7 @@
 
 #### Chisel
 
-* [Chisel/FIRRTL](https://www.chisel-lang.org/) 💬[Doc](https://www.chisel-lang.org/chisel3/docs/introduction.html) 📍[Github](https://github.com/chipsalliance/chisel3) ⭐ 4,760 | 🐛 512 | 🌐 Scala | 📅 2026-08-17![stars](https://img.shields.io/github/stars/chipsalliance/chisel3) - Scala based HDL.
+* [Chisel/FIRRTL](https://www.chisel-lang.org/) 💬[Doc](https://www.chisel-lang.org/chisel3/docs/introduction.html) 📍[Github](https://github.com/chipsalliance/chisel3) ⭐ 4,760 | 🐛 511 | 🌐 Scala | 📅 2026-08-18![stars](https://img.shields.io/github/stars/chipsalliance/chisel3) - Scala based HDL.
 * [Learning Chisel and Scala Part I](https://vvviy.github.io/2018/12/01/Learning-Chisel-and-Scala-Part-I/) [Part II](https://vvviy.github.io/2018/12/12/Learning-Chisel-and-Scala-Part-II/) 🚩📍[Github](https://github.com/VVViy/VVViy.github.io) ⭐ 13 | 🐛 12 | 🌐 HTML | 📅 2023-01-01![stars](https://img.shields.io/github/stars/SpinalHDL/SpinalHDL) - A tutorial for chisel, no scala knowledge required.
 
 #### SpinalHDL
@@ -150,13 +150,13 @@
 
 ### FPGA
 
-* [FPGA Tutorial](https://github.com/LeiWang1999/FPGA) ⭐ 5,635 | 🐛 2 | 📅 2022-05-15 🚩 📍![stars](https://img.shields.io/github/stars/LeiWang1999/FPGA) - Sharing excellent articles and projects related to FPGA.
+* [FPGA Tutorial](https://github.com/LeiWang1999/FPGA) ⭐ 5,632 | 🐛 2 | 📅 2022-05-15 🚩 📍![stars](https://img.shields.io/github/stars/LeiWang1999/FPGA) - Sharing excellent articles and projects related to FPGA.
 * [Complex Programmable Logic Device (CPLD) Guide](https://github.com/mikeroyal/CPLD-Guide) ⭐ 61 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09 📍![stars](https://img.shields.io/github/stars/mikeroyal/CPLD-Guide) - A guide covering CPLD.
 
 ## Tools
 
-* [Icarus Verilog](http://iverilog.icarus.com/) 📍[Github](https://github.com/steveicarus/iverilog) ⭐ 3,595 | 🐛 189 | 🌐 C++ | 📅 2026-08-17![stars](https://img.shields.io/github/stars/steveicarus/iverilog) - A Verilog simulation and synthesis tool.
-* [OpenROAD](https://theopenroadproject.org/) 💬[Doc](https://openroad.readthedocs.io/en/latest/main/README.html) 📍[Github](https://github.com/The-OpenROAD-Project/OpenROAD) ⭐ 2,986 | 🐛 222 | 🌐 Verilog | 📅 2026-08-17![stars](https://img.shields.io/github/stars/The-OpenROAD-Project/OpenROAD) - An RTL-to-GDS Flow
+* [Icarus Verilog](http://iverilog.icarus.com/) 📍[Github](https://github.com/steveicarus/iverilog) ⭐ 3,596 | 🐛 189 | 🌐 C++ | 📅 2026-08-17![stars](https://img.shields.io/github/stars/steveicarus/iverilog) - A Verilog simulation and synthesis tool.
+* [OpenROAD](https://theopenroadproject.org/) 💬[Doc](https://openroad.readthedocs.io/en/latest/main/README.html) 📍[Github](https://github.com/The-OpenROAD-Project/OpenROAD) ⭐ 2,988 | 🐛 218 | 🌐 Verilog | 📅 2026-08-18![stars](https://img.shields.io/github/stars/The-OpenROAD-Project/OpenROAD) - An RTL-to-GDS Flow
 * More information about hardware dv tools on [Awesome Open Hardware Verification - Tools](https://github.com/ben-marshall/awesome-open-hardware-verification#Tools) ⭐ 618 | 🐛 3 | 📅 2026-01-03 and [Awesome HWD Tools](https://github.com/TM90/awesome-hwd-tools) ⭐ 90 | 🐛 0 | 📅 2025-06-20
 * [tree-core-ide](https://github.com/microdynamics-cpu/tree-core-ide) ⭐ 112 | 🐛 0 | 🌐 JavaScript | 📅 2022-09-17  📍![stars](https://img.shields.io/github/stars/microdynamics-cpu/tree-core-ide)- A VSCode-based HDL extension.
 * [EDA Playground](https://www.edaplayground.com/) - Edit, save, simulate, synthesize SystemVerilog, Verilog, VHDL and other HDLs from your web browser.
@@ -195,4 +195,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
