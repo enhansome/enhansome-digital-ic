@@ -15,7 +15,7 @@
             "last_commit": "2026-01-05T18:43:02Z",
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8054
+            "stars": 8058
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2022-05-15T11:38:02Z",
             "owner": "LeiWang1999",
             "repo": "FPGA",
-            "stars": 5646
+            "stars": 5648
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2025-06-20T13:22:17Z",
             "owner": "TM90",
             "repo": "awesome-hwd-tools",
-            "stars": 90
+            "stars": 91
           }
         }
       ],
@@ -188,7 +188,7 @@
                 "last_commit": "2024-07-05T08:24:12Z",
                 "owner": "corundum",
                 "repo": "corundum",
-                "stars": 2433
+                "stars": 2436
               }
             },
             {
@@ -248,7 +248,7 @@
                 "last_commit": "2024-06-11T14:10:01Z",
                 "owner": "KastnerRG",
                 "repo": "riffa",
-                "stars": 881
+                "stars": 882
               }
             },
             {
@@ -263,7 +263,7 @@
                 "last_commit": "2025-02-27T23:55:14Z",
                 "owner": "alexforencich",
                 "repo": "verilog-i2c",
-                "stars": 722
+                "stars": 723
               }
             },
             {
@@ -329,10 +329,10 @@
                     "archived": false,
                     "id": 271929004,
                     "language": "Scala",
-                    "last_commit": "2026-08-24T02:39:10Z",
+                    "last_commit": "2026-08-24T13:46:05Z",
                     "owner": "OpenXiangShan",
                     "repo": "XiangShan",
-                    "stars": 7204
+                    "stars": 7209
                   }
                 },
                 {
@@ -347,7 +347,7 @@
                     "last_commit": "2026-08-23T12:05:06Z",
                     "owner": "riscv",
                     "repo": "riscv-isa-manual",
-                    "stars": 4776
+                    "stars": 4779
                   }
                 },
                 {
@@ -362,7 +362,7 @@
                     "last_commit": "2026-07-31T05:59:04Z",
                     "owner": "YosysHQ",
                     "repo": "picorv32",
-                    "stars": 4352
+                    "stars": 4354
                   }
                 },
                 {
@@ -377,7 +377,7 @@
                     "last_commit": "2026-02-11T09:06:28Z",
                     "owner": "SpinalHDL",
                     "repo": "VexRiscv",
-                    "stars": 3233
+                    "stars": 3232
                   }
                 },
                 {
@@ -389,10 +389,10 @@
                     "archived": false,
                     "id": 118652371,
                     "language": "Assembly",
-                    "last_commit": "2026-08-23T23:06:39Z",
+                    "last_commit": "2026-08-24T13:52:58Z",
                     "owner": "openhwgroup",
                     "repo": "cva6",
-                    "stars": 3073
+                    "stars": 3074
                   }
                 },
                 {
@@ -437,7 +437,7 @@
                     "last_commit": "2025-08-06T02:51:06Z",
                     "owner": "riscv-mcu",
                     "repo": "e203_hbirdv2",
-                    "stars": 1900
+                    "stars": 1901
                   }
                 },
                 {
@@ -452,7 +452,7 @@
                     "last_commit": "2024-06-28T12:18:17Z",
                     "owner": "XUANTIE-RV",
                     "repo": "openc910",
-                    "stars": 1467
+                    "stars": 1469
                   }
                 },
                 {
@@ -541,6 +541,65 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "More information about hardware description language on Awesome HDL",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88018788,
+                "language": null,
+                "last_commit": "2026-07-09T02:37:45Z",
+                "owner": "drom",
+                "repo": "awesome-hdl",
+                "stars": 1169
+              }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Verilog/SystemVerilog Guide",
+                  "description": "📍 - A guide covering Verilog & SystemVerilog.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 321790120,
+                    "language": "SystemVerilog",
+                    "last_commit": "2024-01-04T22:17:43Z",
+                    "owner": "mikeroyal",
+                    "repo": "Verilog-SystemVerilog-Guide",
+                    "stars": 94
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Verilog Grammar"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "VHDL Guide",
+                  "description": "📍 - A guide covering VHDL.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 426018585,
+                    "language": "VHDL",
+                    "last_commit": "2022-01-03T22:35:25Z",
+                    "owner": "mikeroyal",
+                    "repo": "VHDL-Guide",
+                    "stars": 78
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "VHDL Grammar"
+            },
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -576,6 +635,28 @@
               "description": null,
               "node_type": "group",
               "title": "Chisel"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SpinalHDL",
+                  "description": "📍Github - Scala based HDL.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 29812153,
+                    "language": "Scala",
+                    "last_commit": "2026-08-12T07:15:05Z",
+                    "owner": "SpinalHDL",
+                    "repo": "SpinalHDL",
+                    "stars": 2031
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "SpinalHDL"
             }
           ],
           "description": null,
@@ -633,7 +714,7 @@
                 "last_commit": "2022-05-15T11:38:02Z",
                 "owner": "LeiWang1999",
                 "repo": "FPGA",
-                "stars": 5646
+                "stars": 5648
               }
             },
             {
@@ -674,7 +755,7 @@
             "last_commit": "2026-08-23T21:30:59Z",
             "owner": "steveicarus",
             "repo": "iverilog",
-            "stars": 3606
+            "stars": 3605
           }
         },
         {
@@ -686,10 +767,10 @@
             "archived": false,
             "id": 218110222,
             "language": "Verilog",
-            "last_commit": "2026-08-23T16:05:48Z",
+            "last_commit": "2026-08-24T12:36:18Z",
             "owner": "The-OpenROAD-Project",
             "repo": "OpenROAD",
-            "stars": 3010
+            "stars": 3012
           }
         },
         {
@@ -727,7 +808,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:55:55.581Z",
+    "last_updated": "2026-08-24T14:35:02.604Z",
     "original_repository": "qninth/awesome-digital-ic",
     "original_repository_id": 482511115,
     "original_repository_sha": "b7d48d3344183ba7527140f71ce2ba332e275ac3",
