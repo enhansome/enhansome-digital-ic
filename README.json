@@ -15,7 +15,7 @@
             "last_commit": "2026-01-05T18:43:02Z",
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8051
+            "stars": 8054
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2022-05-15T11:38:02Z",
             "owner": "LeiWang1999",
             "repo": "FPGA",
-            "stars": 5642
+            "stars": 5646
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-07-09T02:37:45Z",
             "owner": "drom",
             "repo": "awesome-hdl",
-            "stars": 1168
+            "stars": 1169
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2017-05-25T21:45:38Z",
             "owner": "Vitorian",
             "repo": "awesome-fpga",
-            "stars": 395
+            "stars": 396
           }
         },
         {
@@ -188,7 +188,7 @@
                 "last_commit": "2024-07-05T08:24:12Z",
                 "owner": "corundum",
                 "repo": "corundum",
-                "stars": 2430
+                "stars": 2433
               }
             },
             {
@@ -203,7 +203,7 @@
                 "last_commit": "2025-02-27T23:57:56Z",
                 "owner": "alexforencich",
                 "repo": "verilog-axi",
-                "stars": 2117
+                "stars": 2118
               }
             },
             {
@@ -263,7 +263,7 @@
                 "last_commit": "2025-02-27T23:55:14Z",
                 "owner": "alexforencich",
                 "repo": "verilog-i2c",
-                "stars": 721
+                "stars": 722
               }
             },
             {
@@ -329,7 +329,7 @@
                     "archived": false,
                     "id": 271929004,
                     "language": "Scala",
-                    "last_commit": "2026-08-22T10:41:39Z",
+                    "last_commit": "2026-08-24T02:39:10Z",
                     "owner": "OpenXiangShan",
                     "repo": "XiangShan",
                     "stars": 7204
@@ -344,10 +344,10 @@
                     "archived": false,
                     "id": 80689539,
                     "language": "TeX",
-                    "last_commit": "2026-08-23T01:50:24Z",
+                    "last_commit": "2026-08-23T12:05:06Z",
                     "owner": "riscv",
                     "repo": "riscv-isa-manual",
-                    "stars": 4774
+                    "stars": 4776
                   }
                 },
                 {
@@ -362,7 +362,7 @@
                     "last_commit": "2026-07-31T05:59:04Z",
                     "owner": "YosysHQ",
                     "repo": "picorv32",
-                    "stars": 4349
+                    "stars": 4352
                   }
                 },
                 {
@@ -389,7 +389,7 @@
                     "archived": false,
                     "id": 118652371,
                     "language": "Assembly",
-                    "last_commit": "2026-08-22T23:16:22Z",
+                    "last_commit": "2026-08-23T23:06:39Z",
                     "owner": "openhwgroup",
                     "repo": "cva6",
                     "stars": 3073
@@ -551,10 +551,10 @@
                     "archived": false,
                     "id": 34695562,
                     "language": "Scala",
-                    "last_commit": "2026-08-19T11:12:08Z",
+                    "last_commit": "2026-08-23T11:10:44Z",
                     "owner": "chipsalliance",
                     "repo": "chisel",
-                    "stars": 4764
+                    "stars": 4762
                   }
                 },
                 {
@@ -633,7 +633,7 @@
                 "last_commit": "2022-05-15T11:38:02Z",
                 "owner": "LeiWang1999",
                 "repo": "FPGA",
-                "stars": 5642
+                "stars": 5646
               }
             },
             {
@@ -671,10 +671,10 @@
             "archived": false,
             "id": 16267,
             "language": "C++",
-            "last_commit": "2026-08-22T18:04:29Z",
+            "last_commit": "2026-08-23T21:30:59Z",
             "owner": "steveicarus",
             "repo": "iverilog",
-            "stars": 3601
+            "stars": 3606
           }
         },
         {
@@ -686,10 +686,10 @@
             "archived": false,
             "id": 218110222,
             "language": "Verilog",
-            "last_commit": "2026-08-23T01:17:43Z",
+            "last_commit": "2026-08-23T16:05:48Z",
             "owner": "The-OpenROAD-Project",
             "repo": "OpenROAD",
-            "stars": 3005
+            "stars": 3010
           }
         },
         {
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:55:10.036Z",
+    "last_updated": "2026-08-24T02:55:55.581Z",
     "original_repository": "qninth/awesome-digital-ic",
     "original_repository_id": 482511115,
     "original_repository_sha": "b7d48d3344183ba7527140f71ce2ba332e275ac3",
