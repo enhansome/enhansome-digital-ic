@@ -329,7 +329,7 @@
                     "archived": false,
                     "id": 271929004,
                     "language": "Scala",
-                    "last_commit": "2026-08-25T02:43:48Z",
+                    "last_commit": "2026-08-25T06:24:10Z",
                     "owner": "OpenXiangShan",
                     "repo": "XiangShan",
                     "stars": 7210
@@ -347,7 +347,7 @@
                     "last_commit": "2026-08-25T00:01:36Z",
                     "owner": "riscv",
                     "repo": "riscv-isa-manual",
-                    "stars": 4779
+                    "stars": 4781
                   }
                 },
                 {
@@ -362,7 +362,7 @@
                     "last_commit": "2026-07-31T05:59:04Z",
                     "owner": "YosysHQ",
                     "repo": "picorv32",
-                    "stars": 4355
+                    "stars": 4356
                   }
                 },
                 {
@@ -392,7 +392,7 @@
                     "last_commit": "2026-08-24T23:10:03Z",
                     "owner": "openhwgroup",
                     "repo": "cva6",
-                    "stars": 3076
+                    "stars": 3078
                   }
                 },
                 {
@@ -613,7 +613,7 @@
                     "last_commit": "2026-08-23T11:10:44Z",
                     "owner": "chipsalliance",
                     "repo": "chisel",
-                    "stars": 4762
+                    "stars": 4763
                   }
                 },
                 {
@@ -767,10 +767,10 @@
             "archived": false,
             "id": 218110222,
             "language": "Verilog",
-            "last_commit": "2026-08-24T16:00:30Z",
+            "last_commit": "2026-08-25T04:00:54Z",
             "owner": "The-OpenROAD-Project",
             "repo": "OpenROAD",
-            "stars": 3017
+            "stars": 3020
           }
         },
         {
@@ -808,7 +808,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:51:19.558Z",
+    "last_updated": "2026-08-25T06:27:59.495Z",
     "original_repository": "qninth/awesome-digital-ic",
     "original_repository_id": 482511115,
     "original_repository_sha": "b7d48d3344183ba7527140f71ce2ba332e275ac3",
