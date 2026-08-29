@@ -19,7 +19,7 @@
             "open_issues": 32,
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8071,
+            "stars": 8074,
             "topics": [
               "altium",
               "awesome",
@@ -594,11 +594,11 @@
                     "id": 271929004,
                     "language": "Scala",
                     "license": "MulanPSL-2.0",
-                    "last_commit": "2026-08-29T01:23:59Z",
+                    "last_commit": "2026-08-29T07:27:03Z",
                     "open_issues": 268,
                     "owner": "OpenXiangShan",
                     "repo": "XiangShan",
-                    "stars": 7223,
+                    "stars": 7224,
                     "topics": [
                       "chisel",
                       "microarchitecture",
@@ -1341,7 +1341,7 @@
             "language": "Verilog",
             "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T23:43:37Z",
-            "open_issues": 205,
+            "open_issues": 207,
             "owner": "The-OpenROAD-Project",
             "repo": "OpenROAD",
             "stars": 3032,
@@ -1429,7 +1429,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:55:12.600Z",
+    "last_updated": "2026-08-29T08:26:24.528Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of great digital IC project/tutorial/website etc..",
