@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
+            "homepage": null,
             "id": 64177015,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-01-05T18:43:02Z",
+            "open_issues": 32,
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8070
+            "stars": 8071,
+            "topics": [
+              "altium",
+              "awesome",
+              "eagle",
+              "electronics",
+              "gerber",
+              "hardware",
+              "kicad",
+              "pcb"
+            ]
           },
           "first_seen": "2026-08-28T13:34:36.058Z"
         },
@@ -26,12 +40,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "帮助大家进行FPGA的入门，分享FPGA相关的优秀文章，优秀项目",
+            "homepage": null,
             "id": 275109321,
             "language": null,
+            "license": null,
             "last_commit": "2022-05-15T11:38:02Z",
+            "open_issues": 2,
             "owner": "LeiWang1999",
             "repo": "FPGA",
-            "stars": 5662
+            "stars": 5663,
+            "topics": [
+              "fpga",
+              "pynq",
+              "verilog",
+              "vivado",
+              "xilinx"
+            ]
           },
           "first_seen": "2026-08-28T13:34:36.058Z"
         },
@@ -42,12 +67,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hardware Description Languages",
+            "homepage": null,
             "id": 88018788,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-09T02:37:45Z",
+            "open_issues": 2,
             "owner": "drom",
             "repo": "awesome-hdl",
-            "stars": 1169
+            "stars": 1169,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "hacktoberfest",
+              "hardware-description-language",
+              "hdl",
+              "verilog",
+              "vhdl"
+            ]
           },
           "first_seen": "2026-08-28T13:34:36.058Z"
         },
@@ -58,12 +96,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A List of Free and Open Source Hardware Verification Tools and Frameworks",
+            "homepage": null,
             "id": 162694810,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-01-03T17:29:06Z",
+            "open_issues": 3,
             "owner": "ben-marshall",
             "repo": "awesome-open-hardware-verification",
-            "stars": 620
+            "stars": 621,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "constrained-random-verification",
+              "coverage",
+              "formal-verification",
+              "hardware",
+              "python",
+              "verification",
+              "verilog",
+              "vhdl"
+            ]
           },
           "first_seen": "2026-08-28T13:34:36.058Z"
         },
@@ -74,12 +128,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of resources on FPGA devices and development in general",
+            "homepage": null,
             "id": 61965054,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2017-05-25T21:45:38Z",
+            "open_issues": 1,
             "owner": "Vitorian",
             "repo": "awesome-fpga",
-            "stars": 397
+            "stars": 397,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:34:36.058Z"
         },
@@ -90,12 +149,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":book: List of FPGA Lattice boards using open tools",
+            "homepage": null,
             "id": 231812493,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-09T19:00:55Z",
+            "open_issues": 0,
             "owner": "kelu124",
             "repo": "awesome-latticeFPGAs",
-            "stars": 360
+            "stars": 360,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "fpga",
+              "icestorm",
+              "lattice-fpga"
+            ]
           },
           "first_seen": "2026-08-28T13:34:36.058Z"
         },
@@ -106,12 +176,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":atm: Second life for FPGA boards which can be repurposed to DYI/Hobby projects ...............................................................................................",
+            "homepage": null,
             "id": 321340942,
             "language": null,
+            "license": null,
             "last_commit": "2021-01-12T18:46:29Z",
+            "open_issues": 1,
             "owner": "iDoka",
             "repo": "awesome-fpga-boards",
-            "stars": 104
+            "stars": 104,
+            "topics": [
+              "altera",
+              "antminer",
+              "awesome",
+              "awesome-list",
+              "bmc",
+              "chubby75",
+              "colorlight",
+              "ecp5",
+              "ethernet",
+              "fpga",
+              "intel",
+              "jtag",
+              "lattice",
+              "microsoft",
+              "pci-e",
+              "qsfp",
+              "xilinx",
+              "zynq"
+            ]
           },
           "first_seen": "2026-08-28T13:34:36.058Z"
         },
@@ -122,12 +216,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 193008083,
             "language": null,
+            "license": null,
             "last_commit": "2019-06-26T20:20:17Z",
+            "open_issues": 0,
             "owner": "clin99",
             "repo": "awesome-eda",
-            "stars": 103
+            "stars": 103,
+            "topics": [
+              "circuit",
+              "eda",
+              "fpga",
+              "gds",
+              "lithography",
+              "logic-synthesis",
+              "open-source",
+              "parser",
+              "placement",
+              "routing",
+              "simulation",
+              "static-timing-analysis",
+              "systemverilog",
+              "timer",
+              "verification",
+              "verilog"
+            ]
           },
           "first_seen": "2026-08-28T13:34:36.058Z"
         },
@@ -138,12 +254,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome open source hardware design tools",
+            "homepage": null,
             "id": 158928501,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2025-06-20T13:22:17Z",
+            "open_issues": 0,
             "owner": "TM90",
             "repo": "awesome-hwd-tools",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "asic",
+              "awesome-list",
+              "design-automation",
+              "fpga",
+              "hardware"
+            ]
           },
           "first_seen": "2026-08-28T13:34:36.058Z"
         }
@@ -160,12 +287,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Must-have verilog systemverilog modules",
+            "homepage": null,
             "id": 47992542,
             "language": "Verilog",
+            "license": null,
             "last_commit": "2026-03-12T08:19:20Z",
+            "open_issues": 0,
             "owner": "pConst",
             "repo": "basic_verilog",
-            "stars": 2015
+            "stars": 2015,
+            "topics": [
+              "altera",
+              "debounce",
+              "delay",
+              "encoder",
+              "fifo",
+              "fpga",
+              "hls",
+              "pwm",
+              "spi-interface",
+              "spi-master",
+              "synchronizer",
+              "tcl",
+              "uart",
+              "uart-controller",
+              "uart-protocol",
+              "uart-receiver",
+              "uart-tx",
+              "uart-verilog",
+              "verilog",
+              "xilinx"
+            ]
           },
           "first_seen": "2026-08-28T13:34:36.058Z"
         },
@@ -176,12 +329,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementing 32 Verilog Mini Projects. 32 bit adder, Array Multiplier, Barrel Shifter, Binary Divider 16 by 8, Booth Multiplication, CRC Coding, Carry Select and Carry Look Ahead Adder, Carry Skip and Carry Save Adder, Complex Multiplier, Dice Game, FIFO, Fixed Point Adder and Subtractor, Fixed Point Multiplier and Divider, Floating Point IEEE 754 Addition Subtraction, Floating Point IEEE 754 Division, Floating Point IEEE 754 Multiplication, Fraction Multiplier, High Radix Multiplier, I2C and SPI Protocols, LFSR and CFSR, Logarithm Implementation, Mealy and Moore State Machine Implementation of Sequence Detector, Modified Booth Algorithm, Pipelined Multiplier, Restoring and Non Restoring Division, Sequential Multiplier, Shift and Add Binary Multiplier, Traffic Light Controller, Universal_Shift_Register, BCD Adder, Dual Address RAM and Dual Address ROM",
+            "homepage": null,
             "id": 317919042,
             "language": "Verilog",
+            "license": "CERN-OHL-W-2.0",
             "last_commit": "2025-08-06T13:18:36Z",
+            "open_issues": 0,
             "owner": "Sudhamshu091",
             "repo": "32-Verilog-Mini-Projects",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "miniproject",
+              "verilog",
+              "verilog-hdl",
+              "verilog-project"
+            ]
           },
           "first_seen": "2026-08-28T13:34:36.058Z"
         },
@@ -194,12 +357,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source FPGA-based NIC and platform for in-network compute",
+                "homepage": "https://corundum.io/",
                 "id": 197059490,
                 "language": "Verilog",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-05T08:24:12Z",
+                "open_issues": 130,
                 "owner": "corundum",
                 "repo": "corundum",
-                "stars": 2439
+                "stars": 2439,
+                "topics": [
+                  "fpga",
+                  "in-network-compute",
+                  "linux",
+                  "networking",
+                  "nic"
+                ]
               },
               "first_seen": "2026-08-28T13:34:36.058Z"
             },
@@ -210,12 +384,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Verilog AXI components for FPGA implementation",
+                "homepage": null,
                 "id": 142810315,
                 "language": "Verilog",
+                "license": "MIT",
                 "last_commit": "2025-02-27T23:57:56Z",
+                "open_issues": 68,
                 "owner": "alexforencich",
                 "repo": "verilog-axi",
-                "stars": 2121
+                "stars": 2121,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:34:36.058Z"
             },
@@ -226,12 +405,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication",
+                "homepage": null,
                 "id": 129229399,
                 "language": "SystemVerilog",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T13:28:49Z",
+                "open_issues": 74,
                 "owner": "pulp-platform",
                 "repo": "axi",
-                "stars": 1668
+                "stars": 1668,
+                "topics": [
+                  "asic",
+                  "axi",
+                  "axi4",
+                  "axi4-lite",
+                  "fpga",
+                  "hardware",
+                  "ip",
+                  "network-on-chip",
+                  "rtl",
+                  "systemverilog"
+                ]
               },
               "first_seen": "2026-08-28T13:34:36.058Z"
             },
@@ -242,12 +437,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Verilog AXI stream components for FPGA implementation",
+                "homepage": null,
                 "id": 26246081,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-02-27T23:50:16Z",
+                "open_issues": 22,
                 "owner": "alexforencich",
                 "repo": "verilog-axis",
-                "stars": 912
+                "stars": 912,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:34:36.058Z"
             },
@@ -258,12 +458,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The RIFFA development repository",
+                "homepage": "https://riffa.ucsd.edu",
                 "id": 35060538,
                 "language": "Verilog",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-11T14:10:01Z",
+                "open_issues": 41,
                 "owner": "KastnerRG",
                 "repo": "riffa",
-                "stars": 882
+                "stars": 882,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:34:36.058Z"
             },
@@ -274,12 +479,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Verilog I2C interface for FPGA implementation",
+                "homepage": null,
                 "id": 19449788,
                 "language": "Verilog",
+                "license": "MIT",
                 "last_commit": "2025-02-27T23:55:14Z",
+                "open_issues": 11,
                 "owner": "alexforencich",
                 "repo": "verilog-i2c",
-                "stars": 723
+                "stars": 723,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:34:36.058Z"
             },
@@ -290,12 +500,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Verilog UART",
+                "homepage": null,
                 "id": 23049131,
                 "language": "Verilog",
+                "license": "MIT",
                 "last_commit": "2025-02-27T23:56:21Z",
+                "open_issues": 10,
                 "owner": "alexforencich",
                 "repo": "verilog-uart",
-                "stars": 579
+                "stars": 579,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:34:36.058Z"
             },
@@ -306,12 +521,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AMBA AXI VIP",
+                "homepage": null,
                 "id": 149885780,
                 "language": "SystemVerilog",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-28T07:50:07Z",
+                "open_issues": 8,
                 "owner": "taichi-ishitani",
                 "repo": "tvip-axi",
-                "stars": 474
+                "stars": 474,
+                "topics": [
+                  "amba",
+                  "amba-axi",
+                  "axi",
+                  "axi4",
+                  "systemverilog",
+                  "uvm",
+                  "vip"
+                ]
               },
               "first_seen": "2026-08-28T13:34:36.058Z"
             },
@@ -322,12 +550,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple, basic, formally verified UART controller",
+                "homepage": null,
                 "id": 68826276,
                 "language": "Verilog",
+                "license": "GPL-3.0",
                 "last_commit": "2024-01-29T18:12:25Z",
+                "open_issues": 1,
                 "owner": "ZipCPU",
                 "repo": "wbuart32",
-                "stars": 347
+                "stars": 347,
+                "topics": [
+                  "fpga",
+                  "serialport",
+                  "uart",
+                  "uart-verilog",
+                  "verilator",
+                  "verilog",
+                  "wishbone",
+                  "wishbone-bus"
+                ]
               },
               "first_seen": "2026-08-28T13:34:36.058Z"
             }
@@ -347,12 +589,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open-source high-performance RISC-V processor",
+                    "homepage": "https://xiangshan.cc",
                     "id": 271929004,
                     "language": "Scala",
-                    "last_commit": "2026-08-28T11:35:34Z",
+                    "license": "MulanPSL-2.0",
+                    "last_commit": "2026-08-29T01:23:59Z",
+                    "open_issues": 268,
                     "owner": "OpenXiangShan",
                     "repo": "XiangShan",
-                    "stars": 7222
+                    "stars": 7223,
+                    "topics": [
+                      "chisel",
+                      "microarchitecture",
+                      "risc-v"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:34:36.058Z"
                 },
@@ -363,12 +614,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "RISC-V Instruction Set Manual",
+                    "homepage": "https://riscv.github.io/riscv-isa-manual/",
                     "id": 80689539,
                     "language": "TeX",
+                    "license": "CC-BY-4.0",
                     "last_commit": "2026-08-26T18:53:06Z",
+                    "open_issues": 177,
                     "owner": "riscv",
                     "repo": "riscv-isa-manual",
-                    "stars": 4789
+                    "stars": 4789,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:34:36.058Z"
                 },
@@ -379,12 +635,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PicoRV32 - A Size-Optimized RISC-V CPU",
+                    "homepage": null,
                     "id": 36978369,
                     "language": "Verilog",
+                    "license": "ISC",
                     "last_commit": "2026-07-31T05:59:04Z",
+                    "open_issues": 87,
                     "owner": "YosysHQ",
                     "repo": "picorv32",
-                    "stars": 4365
+                    "stars": 4365,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:34:36.058Z"
                 },
@@ -395,12 +656,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A FPGA friendly 32 bit RISC-V CPU implementation",
+                    "homepage": null,
                     "id": 84366787,
                     "language": "Assembly",
+                    "license": "MIT",
                     "last_commit": "2026-02-11T09:06:28Z",
+                    "open_issues": 132,
                     "owner": "SpinalHDL",
                     "repo": "VexRiscv",
-                    "stars": 3232
+                    "stars": 3232,
+                    "topics": [
+                      "cpu",
+                      "fpga",
+                      "riscv",
+                      "soc",
+                      "softcore",
+                      "spinalhdl",
+                      "verilog",
+                      "vhdl"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:34:36.058Z"
                 },
@@ -411,12 +686,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
+                    "homepage": "https://docs.openhwgroup.org/projects/cva6-user-manual/",
                     "id": 118652371,
                     "language": "Assembly",
-                    "last_commit": "2026-08-28T10:43:12Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-28T23:20:41Z",
+                    "open_issues": 286,
                     "owner": "openhwgroup",
                     "repo": "cva6",
-                    "stars": 3085
+                    "stars": 3086,
+                    "topics": [
+                      "ariane",
+                      "asic",
+                      "cpu",
+                      "fpga",
+                      "risc-v",
+                      "rv64gc",
+                      "systemverilog-hdl"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:34:36.058Z"
                 },
@@ -427,12 +715,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "opensouce RISC-V cpu core implemented in Verilog from scratch in one night!",
+                    "homepage": null,
                     "id": 145329615,
                     "language": "Verilog",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-05-12T04:31:28Z",
+                    "open_issues": 5,
                     "owner": "darklife",
                     "repo": "darkriscv",
-                    "stars": 2602
+                    "stars": 2601,
+                    "topics": [
+                      "core",
+                      "fpga",
+                      "risc-v",
+                      "riscv",
+                      "verilog"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:34:36.058Z"
                 },
@@ -443,12 +742,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "IC design and development should be faster，simpler and more reliable",
+                    "homepage": null,
                     "id": 216210370,
                     "language": "Verilog",
+                    "license": "MIT",
                     "last_commit": "2021-12-31T09:23:38Z",
+                    "open_issues": 25,
                     "owner": "XUANTIE-RV",
                     "repo": "wujian100_open",
-                    "stars": 2013
+                    "stars": 2013,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:34:36.058Z"
                 },
@@ -459,12 +763,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Ultra-Low Power RISC-V Core",
+                    "homepage": "https://doc.nucleisys.com/hbirdv2",
                     "id": 283417813,
                     "language": "Verilog",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-08-06T02:51:06Z",
+                    "open_issues": 27,
                     "owner": "riscv-mcu",
                     "repo": "e203_hbirdv2",
-                    "stars": 1904
+                    "stars": 1904,
+                    "topics": [
+                      "china",
+                      "core",
+                      "cpu",
+                      "e203",
+                      "fpga",
+                      "hummingbird",
+                      "low-power",
+                      "nuclei",
+                      "risc-v",
+                      "riscv",
+                      "soc",
+                      "verilog"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:34:36.058Z"
                 },
@@ -475,12 +797,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OpenXuantie - OpenC910 Core",
+                    "homepage": null,
                     "id": 418752214,
                     "language": "Verilog",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-06-28T12:18:17Z",
+                    "open_issues": 53,
                     "owner": "XUANTIE-RV",
                     "repo": "openc910",
-                    "stars": 1471
+                    "stars": 1471,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:34:36.058Z"
                 },
@@ -491,12 +818,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is the top-level project for the PULP Platform. It instantiates a PULP open-source system with a PULP SoC (microcontroller) domain accelerated by a PULP cluster with 8 cores.",
+                    "homepage": null,
                     "id": 122994841,
                     "language": "SystemVerilog",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-11-26T08:28:19Z",
+                    "open_issues": 39,
                     "owner": "pulp-platform",
                     "repo": "pulp",
-                    "stars": 566
+                    "stars": 566,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:34:36.058Z"
                 },
@@ -507,12 +839,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Run rocket-chip on FPGA",
+                    "homepage": null,
                     "id": 352029260,
                     "language": "Scala",
+                    "license": "MIT",
                     "last_commit": "2025-11-16T05:15:32Z",
+                    "open_issues": 3,
                     "owner": "sycuricon",
                     "repo": "starship",
-                    "stars": 78
+                    "stars": 78,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:34:36.058Z"
                 }
@@ -530,12 +867,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GPGPU microprocessor architecture",
+                    "homepage": null,
                     "id": 2671513,
                     "language": "C",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-11-08T06:00:11Z",
+                    "open_issues": 91,
                     "owner": "jbush001",
                     "repo": "NyuziProcessor",
-                    "stars": 2219
+                    "stars": 2219,
+                    "topics": [
+                      "fpga",
+                      "gpu",
+                      "gpu-computing",
+                      "graphics",
+                      "hardware",
+                      "microprocessor",
+                      "processor-architecture",
+                      "verilog"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:34:36.058Z"
                 },
@@ -546,12 +897,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A small, light weight, RISC CPU soft core",
+                    "homepage": null,
                     "id": 68847497,
                     "language": "Verilog",
+                    "license": null,
                     "last_commit": "2026-08-19T12:02:29Z",
+                    "open_issues": 3,
                     "owner": "ZipCPU",
                     "repo": "zipcpu",
-                    "stars": 1577
+                    "stars": 1577,
+                    "topics": [
+                      "cpu",
+                      "cross-compiler",
+                      "fpga",
+                      "risc-cpu",
+                      "soft-core",
+                      "verilator",
+                      "verilog",
+                      "wishbone",
+                      "wishbone-bus",
+                      "zipcpu"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:34:36.058Z"
                 }
@@ -580,12 +947,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hardware Description Languages",
+                "homepage": null,
                 "id": 88018788,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-07-09T02:37:45Z",
+                "open_issues": 2,
                 "owner": "drom",
                 "repo": "awesome-hdl",
-                "stars": 1169
+                "stars": 1169,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "hacktoberfest",
+                  "hardware-description-language",
+                  "hdl",
+                  "verilog",
+                  "vhdl"
+                ]
               },
               "first_seen": "2026-08-28T13:34:36.058Z"
             },
@@ -598,12 +978,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Verilog/SystemVerilog Guide",
+                    "homepage": null,
                     "id": 321790120,
                     "language": "SystemVerilog",
+                    "license": null,
                     "last_commit": "2024-01-04T22:17:43Z",
+                    "open_issues": 0,
                     "owner": "mikeroyal",
                     "repo": "Verilog-SystemVerilog-Guide",
-                    "stars": 95
+                    "stars": 95,
+                    "topics": [
+                      "awesome",
+                      "awesome-list",
+                      "awesome-readme",
+                      "fpga",
+                      "hardware",
+                      "systemverilog",
+                      "verilog"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:34:36.058Z"
                 }
@@ -621,12 +1014,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "VHDL Guide",
+                    "homepage": null,
                     "id": 426018585,
                     "language": "VHDL",
+                    "license": null,
                     "last_commit": "2022-01-03T22:35:25Z",
+                    "open_issues": 0,
                     "owner": "mikeroyal",
                     "repo": "VHDL-Guide",
-                    "stars": 79
+                    "stars": 79,
+                    "topics": [
+                      "awesome",
+                      "awesome-list",
+                      "awesome-resources",
+                      "fpga",
+                      "hardware",
+                      "hardware-description-language",
+                      "hardware-designs",
+                      "verilog",
+                      "vhdl",
+                      "vhdl-coursework",
+                      "vhdl-elearning",
+                      "vhdl-examples",
+                      "vhdl-modules"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:34:36.058Z"
                 }
@@ -644,12 +1056,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Chisel: A Modern Hardware Design Language",
+                    "homepage": "https://www.chisel-lang.org/",
                     "id": 34695562,
                     "language": "Scala",
-                    "last_commit": "2026-08-27T22:45:24Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-28T15:06:59Z",
+                    "open_issues": 510,
                     "owner": "chipsalliance",
                     "repo": "chisel",
-                    "stars": 4764
+                    "stars": 4764,
+                    "topics": [
+                      "chip-generator",
+                      "chisel",
+                      "chisel3",
+                      "firrtl",
+                      "rtl",
+                      "scala",
+                      "verilog"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:34:36.058Z"
                 },
@@ -660,12 +1085,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is Max's blog, something interesting in it.",
+                    "homepage": null,
                     "id": 114471655,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2023-01-01T07:19:32Z",
+                    "open_issues": 12,
                     "owner": "VVViy",
                     "repo": "VVViy.github.io",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:34:36.058Z"
                 }
@@ -683,12 +1113,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Scala based HDL",
+                    "homepage": null,
                     "id": 29812153,
                     "language": "Scala",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-12T07:15:05Z",
+                    "open_issues": 172,
                     "owner": "SpinalHDL",
                     "repo": "SpinalHDL",
-                    "stars": 2031
+                    "stars": 2031,
+                    "topics": [
+                      "fpga",
+                      "rtl",
+                      "scala",
+                      "verilog",
+                      "vhdl"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:34:36.058Z"
                 }
@@ -711,12 +1152,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RISC-V Guide. Learn all about the RISC-V computer architecture along with the Development Tools and Operating Systems to develop on RISC-V hardware.",
+                "homepage": null,
                 "id": 321789911,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2024-01-04T22:44:46Z",
+                "open_issues": 2,
                 "owner": "mikeroyal",
                 "repo": "RISC-V-Guide",
-                "stars": 660
+                "stars": 660,
+                "topics": [
+                  "android-app",
+                  "computer-architecture",
+                  "cpu-profiling",
+                  "hypervisor",
+                  "optimize",
+                  "peripherals",
+                  "platformio",
+                  "processor",
+                  "processor-architecture",
+                  "risc-processor",
+                  "risc-v",
+                  "riscv",
+                  "riscv-emulator",
+                  "riscv64",
+                  "rv32",
+                  "sbc",
+                  "sel4",
+                  "simulator",
+                  "tensoflow-lite",
+                  "virtualization"
+                ]
               },
               "first_seen": "2026-08-28T13:34:36.058Z"
             },
@@ -727,12 +1194,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ARM Guide ",
+                "homepage": null,
                 "id": 302151518,
                 "language": "C",
+                "license": null,
                 "last_commit": "2024-01-04T18:32:38Z",
+                "open_issues": 0,
                 "owner": "mikeroyal",
                 "repo": "ARM-Guide",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "apple-silicon",
+                  "apple-silicon-support",
+                  "architecture",
+                  "arm",
+                  "arm-assembly",
+                  "arm-templates",
+                  "arm64",
+                  "armv8",
+                  "armv9",
+                  "awesome",
+                  "awesome-arm",
+                  "awesome-list",
+                  "awesome-lists",
+                  "fpga",
+                  "m1-chips",
+                  "m1-max",
+                  "m1-ultra"
+                ]
               },
               "first_seen": "2026-08-28T13:34:36.058Z"
             }
@@ -750,12 +1240,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "帮助大家进行FPGA的入门，分享FPGA相关的优秀文章，优秀项目",
+                "homepage": null,
                 "id": 275109321,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-05-15T11:38:02Z",
+                "open_issues": 2,
                 "owner": "LeiWang1999",
                 "repo": "FPGA",
-                "stars": 5662
+                "stars": 5663,
+                "topics": [
+                  "fpga",
+                  "pynq",
+                  "verilog",
+                  "vivado",
+                  "xilinx"
+                ]
               },
               "first_seen": "2026-08-28T13:34:36.058Z"
             },
@@ -766,12 +1267,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Complex Programmable Logic Device (CPLD) Guide",
+                "homepage": null,
                 "id": 426018727,
                 "language": "Verilog",
+                "license": null,
                 "last_commit": "2022-01-09T22:16:26Z",
+                "open_issues": 0,
                 "owner": "mikeroyal",
                 "repo": "CPLD-Guide",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "awesome-resource",
+                  "awesome-resources",
+                  "circuits",
+                  "cpld",
+                  "fpga",
+                  "hardware",
+                  "hardware-designs",
+                  "integrated-circuits",
+                  "logic-circuit",
+                  "logicgates",
+                  "resources",
+                  "verilog"
+                ]
               },
               "first_seen": "2026-08-28T13:34:36.058Z"
             }
@@ -793,12 +1314,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Icarus Verilog",
+            "homepage": "https://steveicarus.github.io/iverilog/",
             "id": 16267,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-23T21:30:59Z",
+            "open_issues": 188,
             "owner": "steveicarus",
             "repo": "iverilog",
-            "stars": 3612
+            "stars": 3612,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:34:36.058Z"
         },
@@ -809,12 +1335,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
+            "homepage": "https://theopenroadproject.org/",
             "id": 218110222,
             "language": "Verilog",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T23:43:37Z",
+            "open_issues": 205,
             "owner": "The-OpenROAD-Project",
             "repo": "OpenROAD",
-            "stars": 3026
+            "stars": 3032,
+            "topics": [
+              "cpp",
+              "def",
+              "eda",
+              "gdsii",
+              "lef",
+              "opendb-database",
+              "openroad",
+              "rtl",
+              "tcl",
+              "timing-analysis",
+              "verilog"
+            ]
           },
           "first_seen": "2026-08-28T13:34:36.058Z"
         },
@@ -825,12 +1368,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A List of Free and Open Source Hardware Verification Tools and Frameworks",
+            "homepage": null,
             "id": 162694810,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-01-03T17:29:06Z",
+            "open_issues": 3,
             "owner": "ben-marshall",
             "repo": "awesome-open-hardware-verification",
-            "stars": 620
+            "stars": 621,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "constrained-random-verification",
+              "coverage",
+              "formal-verification",
+              "hardware",
+              "python",
+              "verification",
+              "verilog",
+              "vhdl"
+            ]
           },
           "first_seen": "2026-08-28T13:34:36.058Z"
         },
@@ -841,12 +1400,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The next generation integrated development environment for processor design and verification.  It has multi-hardware language support, open source IP management and easy-to-use rtl simulation toolset.",
+            "homepage": null,
             "id": 363053624,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2022-09-17T05:16:53Z",
+            "open_issues": 0,
             "owner": "microdynamics-cpu",
             "repo": "tree-core-ide",
-            "stars": 112
+            "stars": 112,
+            "topics": [
+              "chisel3",
+              "ide",
+              "processor",
+              "riscv",
+              "simualtion",
+              "verilog",
+              "vscode-extension",
+              "waveform",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T13:34:36.058Z"
         }
@@ -855,15 +1429,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:34:36.058Z",
+    "last_updated": "2026-08-29T04:55:12.600Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of great digital IC project/tutorial/website etc..",
+      "homepage": null,
       "id": 482511115,
       "language": null,
+      "license": "MIT",
       "last_commit": "2022-05-10T15:43:05Z",
+      "open_issues": 0,
       "owner": "qninth",
       "repo": "awesome-digital-ic",
-      "stars": 163
+      "stars": 163,
+      "topics": [
+        "asic",
+        "awesome",
+        "awesome-list",
+        "digital-ic",
+        "fpga"
+      ]
     },
     "original_repository_sha": "b7d48d3344183ba7527140f71ce2ba332e275ac3",
     "enhanced_repository": "enhansome/enhansome-digital-ic",
