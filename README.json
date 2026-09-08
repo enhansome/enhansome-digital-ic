@@ -19,7 +19,7 @@
             "open_issues": 34,
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8096,
+            "stars": 8098,
             "topics": [
               "altium",
               "awesome",
@@ -49,7 +49,7 @@
             "open_issues": 2,
             "owner": "LeiWang1999",
             "repo": "FPGA",
-            "stars": 5687,
+            "stars": 5688,
             "topics": [
               "fpga",
               "pynq",
@@ -76,7 +76,7 @@
             "open_issues": 2,
             "owner": "drom",
             "repo": "awesome-hdl",
-            "stars": 1170,
+            "stars": 1171,
             "topics": [
               "awesome",
               "awesome-list",
@@ -137,7 +137,7 @@
             "open_issues": 2,
             "owner": "Vitorian",
             "repo": "awesome-fpga",
-            "stars": 399,
+            "stars": 400,
             "topics": []
           },
           "first_seen": "2026-08-28T13:34:36.058Z"
@@ -366,7 +366,7 @@
                 "open_issues": 130,
                 "owner": "corundum",
                 "repo": "corundum",
-                "stars": 2454,
+                "stars": 2455,
                 "topics": [
                   "fpga",
                   "in-network-compute",
@@ -411,10 +411,10 @@
                 "language": "SystemVerilog",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-27T13:28:49Z",
-                "open_issues": 74,
+                "open_issues": 76,
                 "owner": "pulp-platform",
                 "repo": "axi",
-                "stars": 1683,
+                "stars": 1685,
                 "topics": [
                   "asic",
                   "axi",
@@ -488,7 +488,7 @@
                 "open_issues": 11,
                 "owner": "alexforencich",
                 "repo": "verilog-i2c",
-                "stars": 725,
+                "stars": 726,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:34:36.058Z"
@@ -594,11 +594,11 @@
                     "id": 271929004,
                     "language": "Scala",
                     "license": "MulanPSL-2.0",
-                    "last_commit": "2026-09-07T06:42:15Z",
-                    "open_issues": 277,
+                    "last_commit": "2026-09-08T06:35:25Z",
+                    "open_issues": 275,
                     "owner": "OpenXiangShan",
                     "repo": "XiangShan",
-                    "stars": 7239,
+                    "stars": 7238,
                     "topics": [
                       "chisel",
                       "microarchitecture",
@@ -619,11 +619,11 @@
                     "id": 80689539,
                     "language": "TeX",
                     "license": "CC-BY-4.0",
-                    "last_commit": "2026-09-04T16:13:30Z",
-                    "open_issues": 180,
+                    "last_commit": "2026-09-08T06:01:59Z",
+                    "open_issues": 178,
                     "owner": "riscv",
                     "repo": "riscv-isa-manual",
-                    "stars": 4804,
+                    "stars": 4807,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:34:36.058Z"
@@ -634,17 +634,17 @@
                   "description": "📍 - A Size-Optimized RISC-V CPU.",
                   "children": [],
                   "repo_info": {
-                    "archived": false,
+                    "archived": true,
                     "description": "PicoRV32 - A Size-Optimized RISC-V CPU",
                     "homepage": null,
                     "id": 36978369,
                     "language": "Verilog",
                     "license": "ISC",
-                    "last_commit": "2026-07-31T05:59:04Z",
-                    "open_issues": 87,
+                    "last_commit": "2026-09-07T08:01:26Z",
+                    "open_issues": 86,
                     "owner": "YosysHQ",
                     "repo": "picorv32",
-                    "stars": 4380,
+                    "stars": 4384,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:34:36.058Z"
@@ -665,7 +665,7 @@
                     "open_issues": 132,
                     "owner": "SpinalHDL",
                     "repo": "VexRiscv",
-                    "stars": 3243,
+                    "stars": 3245,
                     "topics": [
                       "cpu",
                       "fpga",
@@ -691,11 +691,11 @@
                     "id": 118652371,
                     "language": "Assembly",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-07T01:15:10Z",
-                    "open_issues": 275,
+                    "last_commit": "2026-09-07T23:13:06Z",
+                    "open_issues": 256,
                     "owner": "openhwgroup",
                     "repo": "cva6",
-                    "stars": 3091,
+                    "stars": 3095,
                     "topics": [
                       "ariane",
                       "asic",
@@ -751,7 +751,7 @@
                     "open_issues": 25,
                     "owner": "XUANTIE-RV",
                     "repo": "wujian100_open",
-                    "stars": 2015,
+                    "stars": 2016,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:34:36.058Z"
@@ -824,7 +824,7 @@
                     "language": "SystemVerilog",
                     "license": "NOASSERTION",
                     "last_commit": "2024-11-26T08:28:19Z",
-                    "open_issues": 39,
+                    "open_issues": 40,
                     "owner": "pulp-platform",
                     "repo": "pulp",
                     "stars": 568,
@@ -956,7 +956,7 @@
                 "open_issues": 2,
                 "owner": "drom",
                 "repo": "awesome-hdl",
-                "stars": 1170,
+                "stars": 1171,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1065,7 +1065,7 @@
                     "open_issues": 512,
                     "owner": "chipsalliance",
                     "repo": "chisel",
-                    "stars": 4777,
+                    "stars": 4778,
                     "topics": [
                       "chip-generator",
                       "chisel",
@@ -1118,11 +1118,11 @@
                     "id": 29812153,
                     "language": "Scala",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-05T16:17:42Z",
-                    "open_issues": 175,
+                    "last_commit": "2026-09-08T06:40:55Z",
+                    "open_issues": 173,
                     "owner": "SpinalHDL",
                     "repo": "SpinalHDL",
-                    "stars": 2034,
+                    "stars": 2036,
                     "topics": [
                       "fpga",
                       "rtl",
@@ -1249,7 +1249,7 @@
                 "open_issues": 2,
                 "owner": "LeiWang1999",
                 "repo": "FPGA",
-                "stars": 5687,
+                "stars": 5688,
                 "topics": [
                   "fpga",
                   "pynq",
@@ -1276,7 +1276,7 @@
                 "open_issues": 0,
                 "owner": "mikeroyal",
                 "repo": "CPLD-Guide",
-                "stars": 61,
+                "stars": 62,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1319,11 +1319,11 @@
             "id": 16267,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-07T02:03:04Z",
-            "open_issues": 183,
+            "last_commit": "2026-09-08T00:52:09Z",
+            "open_issues": 185,
             "owner": "steveicarus",
             "repo": "iverilog",
-            "stars": 3626,
+            "stars": 3628,
             "topics": []
           },
           "first_seen": "2026-08-28T13:34:36.058Z"
@@ -1340,11 +1340,11 @@
             "id": 218110222,
             "language": "Verilog",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-07T05:48:01Z",
-            "open_issues": 221,
+            "last_commit": "2026-09-08T04:33:23Z",
+            "open_issues": 220,
             "owner": "The-OpenROAD-Project",
             "repo": "OpenROAD",
-            "stars": 3071,
+            "stars": 3077,
             "topics": [
               "cpp",
               "def",
@@ -1429,7 +1429,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T06:49:02.701Z",
+    "last_updated": "2026-09-08T06:45:06.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of great digital IC project/tutorial/website etc..",
@@ -1441,7 +1441,7 @@
       "open_issues": 0,
       "owner": "qninth",
       "repo": "awesome-digital-ic",
-      "stars": 165,
+      "stars": 166,
       "topics": [
         "asic",
         "awesome",
