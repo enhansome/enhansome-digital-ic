@@ -19,7 +19,7 @@
             "open_issues": 40,
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8180,
+            "stars": 8181,
             "topics": [
               "altium",
               "awesome",
@@ -509,7 +509,7 @@
                 "open_issues": 10,
                 "owner": "alexforencich",
                 "repo": "verilog-uart",
-                "stars": 585,
+                "stars": 586,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:34:36.058Z"
@@ -1065,7 +1065,7 @@
                     "open_issues": 508,
                     "owner": "chipsalliance",
                     "repo": "chisel",
-                    "stars": 4802,
+                    "stars": 4803,
                     "topics": [
                       "chip-generator",
                       "chisel",
@@ -1340,8 +1340,8 @@
             "id": 218110222,
             "language": "Verilog",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-03T03:25:16Z",
-            "open_issues": 193,
+            "last_commit": "2026-10-03T05:04:33Z",
+            "open_issues": 190,
             "owner": "The-OpenROAD-Project",
             "repo": "OpenROAD",
             "stars": 3148,
@@ -1429,7 +1429,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:41:17.092Z",
+    "last_updated": "2026-10-03T07:19:43.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of great digital IC project/tutorial/website etc..",
