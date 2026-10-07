@@ -16,7 +16,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-14T08:57:12Z",
-            "open_issues": 41,
+            "open_issues": 42,
             "owner": "kitspace",
             "repo": "awesome-electronics",
             "stars": 8191,
@@ -49,7 +49,7 @@
             "open_issues": 2,
             "owner": "LeiWang1999",
             "repo": "FPGA",
-            "stars": 5766,
+            "stars": 5768,
             "topics": [
               "fpga",
               "pynq",
@@ -488,7 +488,7 @@
                 "open_issues": 11,
                 "owner": "alexforencich",
                 "repo": "verilog-i2c",
-                "stars": 729,
+                "stars": 730,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:34:36.058Z"
@@ -594,7 +594,7 @@
                     "id": 271929004,
                     "language": "Scala",
                     "license": "MulanPSL-2.0",
-                    "last_commit": "2026-10-04T15:12:28Z",
+                    "last_commit": "2026-10-07T05:20:39Z",
                     "open_issues": 312,
                     "owner": "OpenXiangShan",
                     "repo": "XiangShan",
@@ -619,11 +619,11 @@
                     "id": 80689539,
                     "language": "TeX",
                     "license": "CC-BY-4.0",
-                    "last_commit": "2026-10-06T03:03:21Z",
+                    "last_commit": "2026-10-07T00:14:04Z",
                     "open_issues": 183,
                     "owner": "riscv",
                     "repo": "riscv-isa-manual",
-                    "stars": 4845,
+                    "stars": 4846,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:34:36.058Z"
@@ -644,7 +644,7 @@
                     "open_issues": 86,
                     "owner": "YosysHQ",
                     "repo": "picorv32",
-                    "stars": 4390,
+                    "stars": 4391,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:34:36.058Z"
@@ -691,11 +691,11 @@
                     "id": 118652371,
                     "language": "Assembly",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-06T10:40:53Z",
-                    "open_issues": 277,
+                    "last_commit": "2026-10-06T22:55:03Z",
+                    "open_issues": 276,
                     "owner": "openhwfoundation",
                     "repo": "cva6",
-                    "stars": 3145,
+                    "stars": 3149,
                     "topics": [
                       "ariane",
                       "asic",
@@ -724,7 +724,7 @@
                     "open_issues": 5,
                     "owner": "darklife",
                     "repo": "darkriscv",
-                    "stars": 2621,
+                    "stars": 2622,
                     "topics": [
                       "core",
                       "fpga",
@@ -827,7 +827,7 @@
                     "open_issues": 40,
                     "owner": "pulp-platform",
                     "repo": "pulp",
-                    "stars": 571,
+                    "stars": 572,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:34:36.058Z"
@@ -876,7 +876,7 @@
                     "open_issues": 91,
                     "owner": "jbush001",
                     "repo": "NyuziProcessor",
-                    "stars": 2226,
+                    "stars": 2225,
                     "topics": [
                       "fpga",
                       "gpu",
@@ -1061,8 +1061,8 @@
                     "id": 34695562,
                     "language": "Scala",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-05T22:29:14Z",
-                    "open_issues": 511,
+                    "last_commit": "2026-10-06T11:19:16Z",
+                    "open_issues": 512,
                     "owner": "chipsalliance",
                     "repo": "chisel",
                     "stars": 4807,
@@ -1118,8 +1118,8 @@
                     "id": 29812153,
                     "language": "Scala",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-19T19:03:19Z",
-                    "open_issues": 184,
+                    "last_commit": "2026-10-06T13:46:38Z",
+                    "open_issues": 183,
                     "owner": "SpinalHDL",
                     "repo": "SpinalHDL",
                     "stars": 2051,
@@ -1249,7 +1249,7 @@
                 "open_issues": 2,
                 "owner": "LeiWang1999",
                 "repo": "FPGA",
-                "stars": 5766,
+                "stars": 5768,
                 "topics": [
                   "fpga",
                   "pynq",
@@ -1319,11 +1319,11 @@
             "id": 16267,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-04T17:15:38Z",
-            "open_issues": 188,
+            "last_commit": "2026-10-07T04:01:29Z",
+            "open_issues": 183,
             "owner": "steveicarus",
             "repo": "iverilog",
-            "stars": 3667,
+            "stars": 3666,
             "topics": []
           },
           "first_seen": "2026-08-28T13:34:36.058Z"
@@ -1340,8 +1340,8 @@
             "id": 218110222,
             "language": "Verilog",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-06T05:06:25Z",
-            "open_issues": 192,
+            "last_commit": "2026-10-06T21:08:56Z",
+            "open_issues": 196,
             "owner": "The-OpenROAD-Project",
             "repo": "OpenROAD",
             "stars": 3154,
@@ -1429,7 +1429,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:06:21.851Z",
+    "last_updated": "2026-10-07T07:56:59.326Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of great digital IC project/tutorial/website etc..",
