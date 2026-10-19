@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8241,
+            "stars": 8247,
             "topics": [
               "altium",
               "awesome",
@@ -49,7 +49,7 @@
             "open_issues": 3,
             "owner": "LeiWang1999",
             "repo": "FPGA",
-            "stars": 5797,
+            "stars": 5799,
             "topics": [
               "fpga",
               "pynq",
@@ -366,7 +366,7 @@
                 "open_issues": 132,
                 "owner": "corundum",
                 "repo": "corundum",
-                "stars": 2493,
+                "stars": 2497,
                 "topics": [
                   "fpga",
                   "in-network-compute",
@@ -393,7 +393,7 @@
                 "open_issues": 68,
                 "owner": "alexforencich",
                 "repo": "verilog-axi",
-                "stars": 2160,
+                "stars": 2161,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:34:36.058Z"
@@ -414,7 +414,7 @@
                 "open_issues": 62,
                 "owner": "pulp-platform",
                 "repo": "axi",
-                "stars": 1725,
+                "stars": 1726,
                 "topics": [
                   "asic",
                   "axi",
@@ -446,7 +446,7 @@
                 "open_issues": 22,
                 "owner": "alexforencich",
                 "repo": "verilog-axis",
-                "stars": 923,
+                "stars": 924,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:34:36.058Z"
@@ -594,11 +594,11 @@
                     "id": 271929004,
                     "language": "Scala",
                     "license": "MulanPSL-2.0",
-                    "last_commit": "2026-10-17T05:08:03Z",
+                    "last_commit": "2026-10-19T06:14:00Z",
                     "open_issues": 329,
                     "owner": "OpenXiangShan",
                     "repo": "XiangShan",
-                    "stars": 7318,
+                    "stars": 7319,
                     "topics": [
                       "chisel",
                       "microarchitecture",
@@ -620,10 +620,10 @@
                     "language": "TeX",
                     "license": "CC-BY-4.0",
                     "last_commit": "2026-10-15T22:28:51Z",
-                    "open_issues": 180,
+                    "open_issues": 181,
                     "owner": "riscv",
                     "repo": "riscv-isa-manual",
-                    "stars": 4855,
+                    "stars": 4859,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:34:36.058Z"
@@ -644,7 +644,7 @@
                     "open_issues": 86,
                     "owner": "YosysHQ",
                     "repo": "picorv32",
-                    "stars": 4393,
+                    "stars": 4392,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:34:36.058Z"
@@ -665,7 +665,7 @@
                     "open_issues": 145,
                     "owner": "SpinalHDL",
                     "repo": "VexRiscv",
-                    "stars": 3290,
+                    "stars": 3293,
                     "topics": [
                       "cpu",
                       "fpga",
@@ -691,11 +691,11 @@
                     "id": 118652371,
                     "language": "Assembly",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-17T22:51:47Z",
+                    "last_commit": "2026-10-18T23:01:24Z",
                     "open_issues": 294,
                     "owner": "openhwfoundation",
                     "repo": "cva6",
-                    "stars": 3162,
+                    "stars": 3164,
                     "topics": [
                       "ariane",
                       "asic",
@@ -721,7 +721,7 @@
                     "language": "Verilog",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-10-12T02:02:20Z",
-                    "open_issues": 5,
+                    "open_issues": 7,
                     "owner": "darklife",
                     "repo": "darkriscv",
                     "stars": 2626,
@@ -772,7 +772,7 @@
                     "open_issues": 31,
                     "owner": "riscv-mcu",
                     "repo": "e203_hbirdv2",
-                    "stars": 1946,
+                    "stars": 1947,
                     "topics": [
                       "china",
                       "core",
@@ -806,7 +806,7 @@
                     "open_issues": 61,
                     "owner": "XUANTIE-RV",
                     "repo": "openc910",
-                    "stars": 1481,
+                    "stars": 1482,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:34:36.058Z"
@@ -906,7 +906,7 @@
                     "open_issues": 3,
                     "owner": "ZipCPU",
                     "repo": "zipcpu",
-                    "stars": 1595,
+                    "stars": 1596,
                     "topics": [
                       "cpu",
                       "cross-compiler",
@@ -1061,11 +1061,11 @@
                     "id": 34695562,
                     "language": "Scala",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-17T14:15:47Z",
-                    "open_issues": 522,
+                    "last_commit": "2026-10-18T10:11:16Z",
+                    "open_issues": 523,
                     "owner": "chipsalliance",
                     "repo": "chisel",
-                    "stars": 4811,
+                    "stars": 4812,
                     "topics": [
                       "chip-generator",
                       "chisel",
@@ -1119,10 +1119,10 @@
                     "language": "Scala",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-13T06:50:53Z",
-                    "open_issues": 186,
+                    "open_issues": 185,
                     "owner": "SpinalHDL",
                     "repo": "SpinalHDL",
-                    "stars": 2053,
+                    "stars": 2052,
                     "topics": [
                       "fpga",
                       "rtl",
@@ -1249,7 +1249,7 @@
                 "open_issues": 3,
                 "owner": "LeiWang1999",
                 "repo": "FPGA",
-                "stars": 5797,
+                "stars": 5799,
                 "topics": [
                   "fpga",
                   "pynq",
@@ -1309,6 +1309,57 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Yosys",
+          "description": "📍 - Open synthesis suite for digital designs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Yosys Open SYnthesis Suite",
+            "homepage": "https://yosyshq.net/yosys/",
+            "id": 7454197,
+            "language": "C++",
+            "license": "ISC",
+            "last_commit": "2026-10-16T17:53:41Z",
+            "open_issues": 567,
+            "owner": "YosysHQ",
+            "repo": "yosys",
+            "stars": 4819,
+            "topics": []
+          },
+          "first_seen": "2026-10-19T07:07:24.610Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Verilator",
+          "description": "📍 - Open-source SystemVerilog simulator and lint system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Verilator open-source SystemVerilog simulator and lint system",
+            "homepage": "https://verilator.org",
+            "id": 191842184,
+            "language": "SystemVerilog",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-19T05:33:12Z",
+            "open_issues": 279,
+            "owner": "verilator",
+            "repo": "verilator",
+            "stars": 4017,
+            "topics": [
+              "compilers",
+              "cpp",
+              "rtl",
+              "system-verilog",
+              "systemc",
+              "verilator",
+              "verilog",
+              "verilog-simulator"
+            ]
+          },
+          "first_seen": "2026-10-19T07:07:24.610Z"
+        },
+        {
+          "node_type": "item",
           "title": "Icarus Verilog",
           "description": "📍Github - A Verilog simulation and synthesis tool.",
           "children": [],
@@ -1319,11 +1370,11 @@
             "id": 16267,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-18T01:40:28Z",
-            "open_issues": 208,
+            "last_commit": "2026-10-19T04:50:13Z",
+            "open_issues": 209,
             "owner": "steveicarus",
             "repo": "iverilog",
-            "stars": 3684,
+            "stars": 3685,
             "topics": []
           },
           "first_seen": "2026-08-28T13:34:36.058Z"
@@ -1340,11 +1391,11 @@
             "id": 218110222,
             "language": "Verilog",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-18T04:40:14Z",
-            "open_issues": 222,
+            "last_commit": "2026-10-19T01:27:41Z",
+            "open_issues": 214,
             "owner": "The-OpenROAD-Project",
             "repo": "OpenROAD",
-            "stars": 3191,
+            "stars": 3196,
             "topics": [
               "cpp",
               "def",
@@ -1363,35 +1414,207 @@
         },
         {
           "node_type": "item",
-          "title": "More information about hardware dv tools on Awesome Open Hardware Verification - Tools",
-          "description": "and Awesome HWD Tools",
+          "title": "verible",
+          "description": "📍 - A suite of SystemVerilog developer tools: parser, formatter, linter, language server.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A List of Free and Open Source Hardware Verification Tools and Frameworks",
-            "homepage": null,
-            "id": 162694810,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-01-03T17:29:06Z",
-            "open_issues": 5,
-            "owner": "ben-marshall",
-            "repo": "awesome-open-hardware-verification",
-            "stars": 631,
+            "description": "Verible is a suite of SystemVerilog developer tools, including a parser, style-linter, formatter and language server",
+            "homepage": "https://chipsalliance.github.io/verible/",
+            "id": 220114000,
+            "language": "C++",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-23T09:01:20Z",
+            "open_issues": 603,
+            "owner": "chipsalliance",
+            "repo": "verible",
+            "stars": 1963,
             "topics": [
-              "awesome",
-              "awesome-list",
-              "constrained-random-verification",
-              "coverage",
-              "formal-verification",
+              "analysis",
+              "formatter",
+              "hacktoberfest",
+              "language-server-protocol",
+              "lexer",
+              "linter",
+              "lsp-server",
+              "parser",
+              "productivity",
+              "style-linter",
+              "sv-lrm",
+              "syntax-tree",
+              "systemverilog",
+              "systemverilog-developer",
+              "systemverilog-parser",
+              "verible",
+              "yacc"
+            ]
+          },
+          "first_seen": "2026-10-19T07:07:24.610Z"
+        },
+        {
+          "node_type": "item",
+          "title": "oss-cad-suite",
+          "description": "📍 - Multi-platform nightly builds of open source digital design and verification tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Multi-platform nightly builds of open source digital design and verification tools",
+            "homepage": null,
+            "id": 334882062,
+            "language": "Shell",
+            "license": "ISC",
+            "last_commit": "2026-10-19T05:29:18Z",
+            "open_issues": 54,
+            "owner": "YosysHQ",
+            "repo": "oss-cad-suite-build",
+            "stars": 1771,
+            "topics": []
+          },
+          "first_seen": "2026-10-19T07:07:24.610Z"
+        },
+        {
+          "node_type": "item",
+          "title": "slang",
+          "description": "📍 - SystemVerilog language compiler and language services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "SystemVerilog compiler and language services",
+            "homepage": null,
+            "id": 80874333,
+            "language": "C++",
+            "license": "MIT",
+            "last_commit": "2026-10-18T14:23:51Z",
+            "open_issues": 26,
+            "owner": "MikePopoloski",
+            "repo": "slang",
+            "stars": 1167,
+            "topics": [
+              "compiler",
+              "language-service",
+              "parse",
+              "slang",
+              "systemverilog",
+              "verilog"
+            ]
+          },
+          "first_seen": "2026-10-19T07:07:24.610Z"
+        },
+        {
+          "node_type": "item",
+          "title": "sv2v",
+          "description": "📍 - SystemVerilog to Verilog conversion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "SystemVerilog to Verilog conversion",
+            "homepage": null,
+            "id": 169686321,
+            "language": "Haskell",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-18T12:52:24Z",
+            "open_issues": 42,
+            "owner": "zachjs",
+            "repo": "sv2v",
+            "stars": 757,
+            "topics": [
+              "conversion",
+              "systemverilog",
+              "verilog",
+              "yosys"
+            ]
+          },
+          "first_seen": "2026-10-19T07:07:24.610Z"
+        },
+        {
+          "node_type": "item",
+          "title": "svlint",
+          "description": "📍 - SystemVerilog linter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "SystemVerilog linter",
+            "homepage": null,
+            "id": 216552919,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2025-11-06T20:01:47Z",
+            "open_issues": 25,
+            "owner": "dalance",
+            "repo": "svlint",
+            "stars": 393,
+            "topics": [
+              "lint",
+              "linter",
+              "rust",
+              "systemverilog",
+              "verilog"
+            ]
+          },
+          "first_seen": "2026-10-19T07:07:24.610Z"
+        },
+        {
+          "node_type": "item",
+          "title": "wave-mcp",
+          "description": "📍 - MCP server for RTL waveform debug: reads FST/VCD waves for AI agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source, license-free MCP server for RTL waveform debug: reads FST waveforms (VCD/FSDB auto-convert) plus a SystemVerilog netlist, with 34 tools covering driver analysis, value/X tracing, pass-fail waveform diff, a browser wave viewer the agent drives, and pre-simulation static analysis.",
+            "homepage": "https://pypi.org/project/wave-mcp/",
+            "id": 1313770200,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-14T03:38:46Z",
+            "open_issues": 4,
+            "owner": "Tencent",
+            "repo": "wave-mcp",
+            "stars": 242,
+            "topics": [
+              "chip-verification",
+              "debug",
+              "eda",
+              "fsdb",
+              "fst",
+              "llm-tools",
+              "mcp",
+              "pyslang",
+              "rtl",
+              "vcd",
+              "waveform"
+            ]
+          },
+          "first_seen": "2026-10-19T07:07:24.610Z"
+        },
+        {
+          "node_type": "item",
+          "title": "WAL",
+          "description": "📍 - A waveform analysis language enabling programmable waveform analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "WAL enables programmable waveform analysis.",
+            "homepage": "https://wal-lang.org",
+            "id": 419785116,
+            "language": "Python",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-09-22T11:52:31Z",
+            "open_issues": 9,
+            "owner": "ics-jku",
+            "repo": "wal",
+            "stars": 188,
+            "topics": [
+              "eda",
+              "fst",
               "hardware",
-              "python",
+              "rtl",
+              "vcd",
               "verification",
               "verilog",
               "vhdl"
             ]
           },
-          "first_seen": "2026-08-28T13:34:36.058Z"
+          "first_seen": "2026-10-19T07:07:24.610Z"
         },
         {
           "node_type": "item",
@@ -1423,13 +1646,599 @@
             ]
           },
           "first_seen": "2026-08-28T13:34:36.058Z"
+        },
+        {
+          "node_type": "item",
+          "title": "xezim",
+          "description": "📍 - Open-source SystemVerilog simulator in Rust. 4-state, event-driven.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source SystemVerilog simulator in Rust. 4-state, event-driven, IEEE 1800-2023, runs real UVM.",
+            "homepage": null,
+            "id": 1215528740,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-19T04:14:24Z",
+            "open_issues": 9,
+            "owner": "aionhw",
+            "repo": "xezim",
+            "stars": 103,
+            "topics": []
+          },
+          "first_seen": "2026-10-19T07:07:24.610Z"
+        },
+        {
+          "node_type": "item",
+          "title": "slang-format",
+          "description": "📍 - SystemVerilog code formatter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "SystemVerilog code formatter",
+            "homepage": null,
+            "id": 1198772416,
+            "language": "C++",
+            "license": "MIT",
+            "last_commit": "2026-10-18T23:01:52Z",
+            "open_issues": 0,
+            "owner": "sstallion",
+            "repo": "slang-format",
+            "stars": 4,
+            "topics": [
+              "code-formatter",
+              "slang",
+              "systemverilog",
+              "verilog"
+            ]
+          },
+          "first_seen": "2026-10-19T07:07:24.610Z"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cocotb",
+              "description": "📍 - A coroutine-based cosimulation library for writing testbenches in Python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "cocotb: Python-based chip (RTL) verification",
+                "homepage": "https://www.cocotb.org",
+                "id": 10651005,
+                "language": "Python",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-10-19T04:48:56Z",
+                "open_issues": 413,
+                "owner": "cocotb",
+                "repo": "cocotb",
+                "stars": 2546,
+                "topics": [
+                  "python",
+                  "test",
+                  "uvm",
+                  "verification",
+                  "verilog",
+                  "vhdl"
+                ]
+              },
+              "first_seen": "2026-10-19T07:07:24.610Z"
+            },
+            {
+              "node_type": "item",
+              "title": "VUnit",
+              "description": "📍 - A unit testing framework for VHDL/SystemVerilog with incremental and continuous testing support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "VUnit is a unit testing framework for VHDL/SystemVerilog",
+                "homepage": "http://vunit.github.io/",
+                "id": 26829379,
+                "language": "VHDL",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-16T11:33:46Z",
+                "open_issues": 282,
+                "owner": "VUnit",
+                "repo": "vunit",
+                "stars": 850,
+                "topics": [
+                  "asic",
+                  "fpga",
+                  "systemverilog-hdl",
+                  "testbench",
+                  "unit-testing",
+                  "universal-verification-methodology",
+                  "verification",
+                  "verilog-hdl",
+                  "vhdl"
+                ]
+              },
+              "first_seen": "2026-10-19T07:07:24.610Z"
+            },
+            {
+              "node_type": "item",
+              "title": "pyuvm",
+              "description": "📍 - The UVM written in pure Python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The UVM written in Python",
+                "homepage": null,
+                "id": 334507633,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-19T03:49:52Z",
+                "open_issues": 6,
+                "owner": "pyuvm",
+                "repo": "pyuvm",
+                "stars": 572,
+                "topics": []
+              },
+              "first_seen": "2026-10-19T07:07:24.610Z"
+            },
+            {
+              "node_type": "item",
+              "title": "cocotbext-axi",
+              "description": "📍 - AXI/AXI Lite/AXI Stream interface modules for cocotb. See also cocotbext-pcie, cocotbext-eth, cocotbext-i2c, cocotbext-uart, cocotbext-spi, cocotbext-wishbone.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "AXI interface modules for Cocotb",
+                "homepage": null,
+                "id": 305507409,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-08-24T22:45:50Z",
+                "open_issues": 67,
+                "owner": "alexforencich",
+                "repo": "cocotbext-axi",
+                "stars": 366,
+                "topics": []
+              },
+              "first_seen": "2026-10-19T07:07:24.610Z"
+            },
+            {
+              "node_type": "item",
+              "title": "uvm-python",
+              "description": "📍 - UVM 1.2 port to Python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "UVM 1.2 port to Python",
+                "homepage": null,
+                "id": 232838902,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2025-02-09T13:29:34Z",
+                "open_issues": 5,
+                "owner": "tpoikela",
+                "repo": "uvm-python",
+                "stars": 262,
+                "topics": []
+              },
+              "first_seen": "2026-10-19T07:07:24.610Z"
+            },
+            {
+              "node_type": "item",
+              "title": "svunit",
+              "description": "📍 - A unit test framework for SystemVerilog RTL code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": "http://www.agilesoc.com/svunit",
+                "id": 45945753,
+                "language": "SystemVerilog",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-16T15:39:06Z",
+                "open_issues": 109,
+                "owner": "svunit",
+                "repo": "svunit",
+                "stars": 226,
+                "topics": []
+              },
+              "first_seen": "2026-10-19T07:07:24.610Z"
+            },
+            {
+              "node_type": "item",
+              "title": "pyvsc",
+              "description": "📍 - Verification stimulus and coverage library with constrained-randomization for cocotb.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Python packages providing a library for Verification Stimulus and Coverage",
+                "homepage": "https://dvkit.org/fvutils/pyvsc/",
+                "id": 198527127,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-14T21:58:45Z",
+                "open_issues": 51,
+                "owner": "fvutils",
+                "repo": "pyvsc",
+                "stars": 149,
+                "topics": [
+                  "cocotb",
+                  "constrained-random",
+                  "constraints",
+                  "coverage",
+                  "functional-coverage",
+                  "python",
+                  "random-stimulus",
+                  "randomization",
+                  "verification-stimulus"
+                ]
+              },
+              "first_seen": "2026-10-19T07:07:24.610Z"
+            },
+            {
+              "node_type": "item",
+              "title": "cocotb-coverage",
+              "description": "📍 - Functional coverage and constrained randomization extensions for cocotb.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Functional Coverage and Constrained Randomization Extensions for Cocotb",
+                "homepage": null,
+                "id": 159490350,
+                "language": "Python",
+                "license": "BSD-2-Clause",
+                "last_commit": "2026-09-22T15:09:24Z",
+                "open_issues": 11,
+                "owner": "mciepluc",
+                "repo": "cocotb-coverage",
+                "stars": 129,
+                "topics": [
+                  "cocotb",
+                  "hdl",
+                  "mdv",
+                  "verification"
+                ]
+              },
+              "first_seen": "2026-10-19T07:07:24.610Z"
+            },
+            {
+              "node_type": "item",
+              "title": "verdi_bridge",
+              "description": "📍 - Connect AI agents to a live Synopsys Verdi session through MCP: waveforms, signals and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Connect AI agents to a live Synopsys Verdi session through MCP: waveforms, signal values, driver tracing, and RTL source.",
+                "homepage": null,
+                "id": 1416490929,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-14T21:08:37Z",
+                "open_issues": 0,
+                "owner": "RuihongY",
+                "repo": "verdi_bridge",
+                "stars": 22,
+                "topics": [
+                  "asic-design",
+                  "eda",
+                  "hardware-verification",
+                  "mcp",
+                  "mcp-server",
+                  "rtl",
+                  "verdi",
+                  "verilog",
+                  "waveform"
+                ]
+              },
+              "first_seen": "2026-10-19T07:07:24.610Z"
+            },
+            {
+              "node_type": "item",
+              "title": "uvm_bridge",
+              "description": "📍 - Bridge SystemVerilog UVM APIs (factory, config_db, report, registers, HDL access) to Python via DPI-C; modify stimuli without recompiling. Works with uvm-verilator or xezim.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Bridge systemverilog UVM API with Python by DPI-C, so that Python can be used to write testcases to avoid frequent compilation",
+                "homepage": null,
+                "id": 813642194,
+                "language": "C",
+                "license": null,
+                "last_commit": "2026-10-19T06:03:53Z",
+                "open_issues": 6,
+                "owner": "Dragon-Git",
+                "repo": "uvm_bridge",
+                "stars": 7,
+                "topics": [
+                  "dpi",
+                  "python",
+                  "svuvm",
+                  "uvm"
+                ]
+              },
+              "first_seen": "2026-10-19T07:07:24.610Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Verification"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RGGen",
+              "description": "📍 - Code generation tool for control and status registers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code generation tool for control and status registers",
+                "homepage": "https://rggen.github.io/rggen-webui/",
+                "id": 180550709,
+                "language": "Ruby",
+                "license": "MIT",
+                "last_commit": "2026-09-11T11:24:52Z",
+                "open_issues": 23,
+                "owner": "rggen",
+                "repo": "rggen",
+                "stars": 471,
+                "topics": [
+                  "amba",
+                  "apb",
+                  "asic",
+                  "axi",
+                  "csr",
+                  "eda",
+                  "fpga",
+                  "ral",
+                  "register-descriptions",
+                  "rtl",
+                  "soc",
+                  "systemrdl",
+                  "systemverilog",
+                  "uvm",
+                  "uvm-ral-model",
+                  "uvm-register-model",
+                  "verilog",
+                  "vhdl",
+                  "wiki-documents",
+                  "wishbone-bus"
+                ]
+              },
+              "first_seen": "2026-10-19T07:07:24.610Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SystemRDL Compiler",
+              "description": "📍 - SystemRDL 2.0 language compiler front-end.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "SystemRDL 2.0 language compiler front-end",
+                "homepage": "http://systemrdl-compiler.readthedocs.io",
+                "id": 124714696,
+                "language": "C++",
+                "license": "MIT",
+                "last_commit": "2026-10-07T05:42:45Z",
+                "open_issues": 15,
+                "owner": "SystemRDL",
+                "repo": "systemrdl-compiler",
+                "stars": 288,
+                "topics": [
+                  "asic",
+                  "csr",
+                  "design-automation",
+                  "eda",
+                  "fpga",
+                  "hardware-description-language",
+                  "register-description-language",
+                  "register-descriptions",
+                  "registers",
+                  "systemrdl",
+                  "systemrdl-compiler"
+                ]
+              },
+              "first_seen": "2026-10-19T07:07:24.610Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ORDT",
+              "description": "📍 - Generate register RTL, models, and docs using SystemRDL or JSpec.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Tool to generate register RTL, models, and docs using SystemRDL or JSpec input",
+                "homepage": null,
+                "id": 61146698,
+                "language": "Verilog",
+                "license": "Apache-2.0",
+                "last_commit": "2026-06-03T17:24:10Z",
+                "open_issues": 25,
+                "owner": "Juniper",
+                "repo": "open-register-design-tool",
+                "stars": 208,
+                "topics": [
+                  "asic",
+                  "eda",
+                  "fpga",
+                  "jspec",
+                  "register-descriptions",
+                  "registers",
+                  "systemrdl",
+                  "systemrdl-compiler",
+                  "systemverilog",
+                  "uvm"
+                ]
+              },
+              "first_seen": "2026-10-19T07:07:24.610Z"
+            },
+            {
+              "node_type": "item",
+              "title": "PeakRDL",
+              "description": "📍 - Generate register RTL, UVM reg models, docs, and C headers from SystemRDL. See PeakRDL-uvm, PeakRDL-html, PeakRDL-python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Generate SystemVerilog RTL that implements a register block from compiled SystemRDL input.",
+                "homepage": "http://peakrdl-regblock.readthedocs.io",
+                "id": 311864195,
+                "language": "Python",
+                "license": "LGPL-3.0",
+                "last_commit": "2026-03-28T03:03:03Z",
+                "open_issues": 24,
+                "owner": "SystemRDL",
+                "repo": "PeakRDL-regblock",
+                "stars": 90,
+                "topics": [
+                  "asic",
+                  "csr",
+                  "fpga",
+                  "registers",
+                  "systemrdl",
+                  "systemrdl-compiler",
+                  "systemverilog",
+                  "systemverilog-hdl"
+                ]
+              },
+              "first_seen": "2026-10-19T07:07:24.610Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Register Generation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FuseSoC",
+              "description": "📍 - Package manager and build abstraction tool for FPGA/ASIC development.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Package manager and build abstraction tool for FPGA/ASIC development",
+                "homepage": null,
+                "id": 16964283,
+                "language": "Python",
+                "license": "BSD-2-Clause",
+                "last_commit": "2026-10-15T14:10:36Z",
+                "open_issues": 154,
+                "owner": "olofk",
+                "repo": "fusesoc",
+                "stars": 1476,
+                "topics": [
+                  "eda",
+                  "fpga",
+                  "package-manager",
+                  "python",
+                  "reuse",
+                  "verilog",
+                  "vhdl"
+                ]
+              },
+              "first_seen": "2026-10-19T07:07:24.610Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Edalize",
+              "description": "📍 - An abstraction library for interfacing EDA tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An abstraction library for interfacing EDA tools",
+                "homepage": null,
+                "id": 132811303,
+                "language": "Python",
+                "license": "BSD-2-Clause",
+                "last_commit": "2026-09-15T16:33:17Z",
+                "open_issues": 160,
+                "owner": "olofk",
+                "repo": "edalize",
+                "stars": 801,
+                "topics": [
+                  "altera",
+                  "eda",
+                  "fossi",
+                  "fpga",
+                  "ghdl",
+                  "icarus-verilog",
+                  "icestorm",
+                  "lattice",
+                  "modelsim",
+                  "riviera-pro",
+                  "simulation",
+                  "spyglass",
+                  "synthesis",
+                  "systemverilog",
+                  "verilator",
+                  "verilog",
+                  "vhdl",
+                  "vivado",
+                  "xilinx",
+                  "yosys"
+                ]
+              },
+              "first_seen": "2026-10-19T07:07:24.610Z"
+            },
+            {
+              "node_type": "item",
+              "title": "More information about hardware dv tools on Awesome Open Hardware Verification - Tools",
+              "description": "and Awesome HWD Tools",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A List of Free and Open Source Hardware Verification Tools and Frameworks",
+                "homepage": null,
+                "id": 162694810,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2026-01-03T17:29:06Z",
+                "open_issues": 5,
+                "owner": "ben-marshall",
+                "repo": "awesome-open-hardware-verification",
+                "stars": 631,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "constrained-random-verification",
+                  "coverage",
+                  "formal-verification",
+                  "hardware",
+                  "python",
+                  "verification",
+                  "verilog",
+                  "vhdl"
+                ]
+              },
+              "first_seen": "2026-08-28T13:34:36.058Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SymbiYosys",
+              "description": "📍 - Front-end for Yosys-based formal verification flows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "SymbiYosys (sby) -- Front-end for Yosys-based formal verification flows",
+                "homepage": null,
+                "id": 79726807,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-15T01:45:52Z",
+                "open_issues": 57,
+                "owner": "YosysHQ",
+                "repo": "sby",
+                "stars": 559,
+                "topics": []
+              },
+              "first_seen": "2026-10-19T07:07:24.610Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Project Management & Build"
         }
       ],
       "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T06:48:51.807Z",
+    "last_updated": "2026-10-19T07:07:24.610Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of great digital IC project/tutorial/website etc..",
@@ -1437,7 +2246,7 @@
       "id": 482511115,
       "language": null,
       "license": "MIT",
-      "last_commit": "2022-05-10T15:43:05Z",
+      "last_commit": "2026-10-19T03:54:23Z",
       "open_issues": 0,
       "owner": "qninth",
       "repo": "awesome-digital-ic",
@@ -1450,7 +2259,7 @@
         "fpga"
       ]
     },
-    "original_repository_sha": "b7d48d3344183ba7527140f71ce2ba332e275ac3",
+    "original_repository_sha": "0e52e5bb17ccb37776d3bd2669eff3319ef17f44",
     "enhanced_repository": "enhansome/enhansome-digital-ic",
     "enhanced_repository_description": null,
     "title": "Awesome Digital IC with stars"
